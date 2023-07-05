@@ -321,7 +321,7 @@ footer img:hover {
   border-radius: 4px;
 }
 
-/* Μobile devices */
+/* Μobile and low resolution devices */
 @media (max-width: 767px) {
   .semester-select-container {
     display: block; 
@@ -329,5 +329,26 @@ footer img:hover {
   
   .semester-btn-container {
     display: none; 
+  }
+
+  .header-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-container h1 {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1366px) {
+  .course {
+    width: 70vh;
+  }
+}
+
+@media (min-width: 1366px) and (max-width: 1920px) {
+  .course {
+    width: 75vh;
   }
 }
