@@ -95,6 +95,31 @@ Promise.all([
           linkContainer.appendChild(link);
         }
 
+        if (course.review) {
+          const reviewUrls = Array.isArray(course.review) ? course.review : [course.review];
+        
+          for (const reviewUrl of reviewUrls) {
+            let [link, img] = ["a", "img"].map((tag) =>
+              Object.assign(
+                document.createElement(tag),
+                tag === "a"
+                  ? {
+                      href: `https://forms.gle/${reviewUrl}`,
+                      target: "_blank",
+                    }
+                  : {
+                      src: "/assets/review.webp",
+                      alt: "Review Icon",
+                      classList: ["course-image"],
+                    }
+              )
+            );
+        
+            link.appendChild(img);
+            linkContainer.appendChild(link);
+          }
+        }
+
         courseContainer.appendChild(title);
         courseContainer.appendChild(code);
         courseContainer.appendChild(professorContainer);
