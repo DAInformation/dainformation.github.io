@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap');
+
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Manrope', sans-serif;
   margin: 0;
   padding: 0;
   background: #050a1b;
@@ -43,35 +45,10 @@ h1 {
   text-shadow: 2px 2px #333;
 }
 
-@keyframes boxBorder {
-  0% {
-    border-color: #0099ff;
-  }
-
-  20% {
-    border-color: #ff3300;
-  }
-
-  40% {
-    border-color: #00cc00;
-  }
-
-  60% {
-    border-color: #ff6600;
-  }
-
-  80% {
-    border-color: #9933ff;
-  }
-
-  100% {
-    border-color: #0099ff;
-  }
-}
-
 a {
   text-decoration: none;
   color: #007bff;
+  font-weight: 800;
 }
 
 a:hover {
@@ -79,38 +56,30 @@ a:hover {
 }
 
 .instructions-container {
-  background-color: #f9f9f9;
-  border-radius: 5px;
-  box-shadow: 0 0 5px #ddd;
+  background-color: rgba(224, 224, 224, 0.856);
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 35px;
+  box-shadow: 0 0 5px #b83737;
   margin: 20px auto;
   max-width: 80%;
   padding: 20px;
-  text-align: center;
-  animation: boxBorder 5s infinite;
-  border: 2px solid transparent;
 }
 
 .instructions-container h3 {
+  font-size: 28px;
+  text-align: center;
   margin-top: 0;
-  margin-bottom: 0;
-}
-
-.instructions-container p {
-  color: #333;
-  font-size: 3vh;
-  line-height: 1.5;
-  margin: 0;
+  margin-bottom: 10px;
 }
 
 .info-window {
-  position: flex;
-  margin: 10px 10px 10px 10px;
-  padding: 10px;
-  background-color: #f9f9f9;
+  margin: 30px;
+  padding: 15px;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 35px;
+  background-color: rgba(224, 224, 224, 0.856);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-  border-radius: 5px;
-  border: 2px solid transparent;
-  animation: boxBorder 5s infinite;
+  display: inline-block;
 }
 
 .info-window h1 {
@@ -129,7 +98,7 @@ a:hover {
 }
 
 .semester-btn, .specialization-btn {
-  background-color: #ddd;
+  background-color: rgba(224, 224, 224, 0.788);;
   border-color: black;
   padding: 10px 20px;
   margin: 5px;
@@ -159,17 +128,31 @@ a:hover {
   justify-content: center;
 }
 
+.semester-select-container {
+  max-width: 300px;
+  margin: 0 auto 25px;
+  display: none; 
+}
+
+.semester-select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
 .course{
   width: 85vh;
   margin: 10px;
   padding: 15px;
-  border: 1px solid #09b0e7;
-  border-radius: 5px;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 35px;
+  background-color: rgba(224, 224, 224, 0.856);
   box-shadow: 0 0 5px #ccc;
   display: none;
   opacity: 0;
   transition: opacity 0.5s ease;
-  background-color: #f9f9f9;
 }
 
 .course.active {
@@ -198,7 +181,6 @@ a:hover {
 
 .professor-container li {
   font-size: 24px;
-  font-weight: bold;
   color: #007bff;
   margin: 0;
   margin-bottom: 0;
@@ -215,7 +197,7 @@ a:hover {
 
 .course p, span, li {
   font-size: 18px;
-  color: #666;
+  color: #000000;
   margin-bottom: 5px;
 }
 
@@ -305,20 +287,6 @@ footer img:hover {
   opacity: 1;
   visibility: visible;
   transition-delay: 0s;
-}
-
-.semester-select-container {
-  max-width: 300px;
-  margin: 0 auto;
-  display: none; 
-}
-
-.semester-select {
-  width: 100%;
-  padding: 10px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
 }
 
 /* Μobile and low resolution devices */
