@@ -131,6 +131,7 @@ a:hover {
   max-width: 300px;
   margin: 0 auto 25px;
   display: none; 
+  z-index: 1;
 }
 
 .semester-select {
