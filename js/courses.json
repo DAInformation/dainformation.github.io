@@ -6,7 +6,7 @@
         {
           "title": "ΑΛΓΟΡΙΘΜΟΙ",
           "code": "AIC101 (Διδακτική Επάρκεια)",
-          "professor": "samaras",
+          "professor": "kouzinopoulos",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Algorithms",
           "url": "https://openeclass.uom.gr/courses/DAI164/", 
           "review": "Tw5MNu9has4g93bL6",
@@ -58,7 +58,7 @@
         {
           "title": "ΔΙΑΔΙΚΑΣΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
           "code": "AIC103",
-          "professor": ["eftprot", "stelios", "iliass", "maya", "halkidis", "achat"],
+          "professor": ["eftprot", "stelios", "iliass", "maya", "halkidis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Procedural-Programming",
           "url":  "https://openeclass.uom.gr/courses/DAI121/",
           "review": "7iQitAPHQrdaRnGQ9",
@@ -579,7 +579,7 @@
         {
           "title": "ΑΣΦΑΛΕΙΑ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "AIC402",
-          "professor": "mavridis",
+          "professor": "",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Information-and-Systems-Security",
           "url": "https://classroom.google.com/",
           "review": "4zELU7t4DtHaQWeZ6",
@@ -668,7 +668,7 @@
         {
           "title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
           "code": "CSC402",
-          "professor": "achat",
+          "professor": "",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Software-Technology",
           "url": "https://openeclass.uom.gr/courses/DAI127/",
           "review": "1vF8v41xcoqbCeLXA",
@@ -694,7 +694,7 @@
         {
           "title": "ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΗ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "ISC401",
-          "professor": ["kvergidis", "tambouris"],
+          "professor": "tambouris",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/System-Analysis-and-Design",
           "url": "https://openeclass.uom.gr/courses/DAI189/",
           "review": "Qpx2abUB2Nyn3KR86",
@@ -1255,14 +1255,7 @@
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "ut2L84nJfncPAr3U8",
-          "introduction": "Η δομή οργάνωσης του μαθήματος περιλαμβάνει τις ακόλουθες κύριες θεματικές ενότητες:<ul><li>Εισαγωγή στα Ηλεκτρονική Διακυβέρνηση<li>Ανοικτά Κυβερνητικά Δεδομένα<li>Συνδεδεμένα Ανοικτά Δεδομένα (RDF, SPARQL)<li>Αξιοποίηση ΑΡΙ δημοσίων φορέων<li>Παροχή Δημοσίων Πληροφοριών και Υπηρεσιών<li>Ηλεκτρονική Διακυβέρνησης μιας Στάσης<li>Διασυνδεσιμότητα<li>Ηλεκτρονική Συμμετοχή</li></ul>",
-          "recommended_books": [
-            {
-              "title": "ΑΝΟΙΚΤΑ ΣΥΝΔΕΔΕΜΕΝΑ ΔΕΔΟΜΕΝΑ ΚΑΙ ΕΦΑΡΜΟΓΕΣ",
-              "author": "ΜΙΧΑΗΛ ΣΤΕΦΑΝΙΔΑΚΗΣ, ΙΩΑΝΝΗΣ ΠΑΠΑΔΑΚΗΣ, ΘΕΟΔΩΡΟΣ ΑΝΔΡΟΝΙΚΟΣ",
-              "id": "320100"
-            }
-          ]
+          "introduction": "Η δομή οργάνωσης του μαθήματος περιλαμβάνει τις ακόλουθες κύριες θεματικές ενότητες:<ul><li>Εισαγωγή στα Ηλεκτρονική Διακυβέρνηση<li>Ανοικτά Κυβερνητικά Δεδομένα<li>Συνδεδεμένα Ανοικτά Δεδομένα (RDF, SPARQL)<li>Αξιοποίηση ΑΡΙ δημοσίων φορέων<li>Παροχή Δημοσίων Πληροφοριών και Υπηρεσιών<li>Ηλεκτρονική Διακυβέρνησης μιας Στάσης<li>Διασυνδεσιμότητα<li>Ηλεκτρονική Συμμετοχή</li></ul>"
         },
         {
           "title": "ΠΛΗΡΟΦΟΡΙΚΗ ΚΑΙ ΒΙΩΣΙΜΗ ΑΝΑΠΤΥΞΗ",
@@ -1749,7 +1742,7 @@
         {
           "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
           "code": "AIE803",
-          "professor": "pilavaki",
+          "professor": "",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI383/",
           "review": "TRFqtHE4SsggEC17A",
@@ -1889,7 +1882,7 @@
         {
           "title": "ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ",
           "code": "AIE808",
-          "professor": "tsakalidis",
+          "professor": "mavla",
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "4ZrfH5S7wsabE6gB9",
@@ -1947,7 +1940,7 @@
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIE813",
-          "professor": "pilavaki",
+          "professor": "",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
           "review": "3F1dy9Ju4A676Fib7",
@@ -2135,7 +2128,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΑΝΑΛΥΤΙΚΗ",
           "code": "ISE802",
-          "professor": "tsakalidis",
+          "professor": "kvergidis",
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "wXraKS6aQeFS1iQP6",
