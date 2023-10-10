@@ -203,6 +203,11 @@
           "id": "gpapadima",
           "name": "Παπαδήμα Γενοβέφα",
           "url": "mailto:gpapadima@uom.edu.gr"
+        },
+        {
+          "id": "papaoikonomou",
+          "name": "Παπαοικονόμου Αντώνης",
+          "url": "mailto:papaoiko@sch.gr"
         }
       ]
 }
