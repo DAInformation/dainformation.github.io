@@ -261,7 +261,7 @@ function filterCoursesByCode(button) {
     if (
       (specialization === "CS" && !code.startsWith("I")) ||
       (specialization === "IS" && !code.startsWith("C")) ||
-      code.includes("ISE706") || specialization === "ALL"
+      specialization === "ALL"
     ) {
       course.classList.remove("hidden");
     } else {
