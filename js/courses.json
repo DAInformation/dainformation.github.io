@@ -417,7 +417,7 @@
         {
           "title": "ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ",
           "code": "AIC302",
-          "professor": "pfoul",
+          "professor": ["pfoul", "trakatelis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester3/Computer-Networks",
           "url": "https://openeclass.uom.gr/courses/DAI109/",
           "review": "UCm3qb4EPXVBbRWf8",
