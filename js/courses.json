@@ -579,7 +579,7 @@
         {
           "title": "ΑΣΦΑΛΕΙΑ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "AIC402",
-          "professor": "",
+          "professor": "mavridis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Information-and-Systems-Security",
           "url": "https://classroom.google.com/",
           "review": "4zELU7t4DtHaQWeZ6",
@@ -668,7 +668,7 @@
         {
           "title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
           "code": "CSC402",
-          "professor": "",
+          "professor": "arvanitou",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Software-Technology",
           "url": "https://openeclass.uom.gr/courses/DAI127/",
           "review": "1vF8v41xcoqbCeLXA",
@@ -694,7 +694,7 @@
         {
           "title": "ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΗ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "ISC401",
-          "professor": "tambouris",
+          "professor": ["tambouris", "tikva"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/System-Analysis-and-Design",
           "url": "https://openeclass.uom.gr/courses/DAI189/",
           "review": "Qpx2abUB2Nyn3KR86",
@@ -1742,7 +1742,7 @@
         {
           "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
           "code": "AIE803",
-          "professor": "",
+          "professor": "mmilossi",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI383/",
           "review": "TRFqtHE4SsggEC17A",
@@ -1762,7 +1762,7 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ",
-          "code": "AIE804",
+          "code": "AIE804 (ΔΕ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2023-24)",
           "professor": "emamatas",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI212/",
@@ -1940,7 +1940,7 @@
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIE813",
-          "professor": "",
+          "professor": "mmilossi",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
           "review": "3F1dy9Ju4A676Fib7",

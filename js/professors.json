@@ -207,6 +207,16 @@
           "id": "papaoikonomou",
           "name": "Παπαοικονόμου Αντώνης",
           "url": "mailto:papaoiko@sch.gr"
+        },
+        {
+          "id": "arvanitou",
+          "name": "Αρβανίτου Ελβίρα-Μαρία",
+          "url": "mailto:earvani@csd.auth.gr"
+        },
+        {
+          "id": "tikva",
+          "name": "Τίκβα Χριστίνα",
+          "url": ""
         }
       ]
 }
