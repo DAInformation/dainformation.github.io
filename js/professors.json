@@ -1,0 +1,231 @@
+{
+  "professors": [
+    {
+      "id": "ealex",
+      "name": "Αλεξανδροπούλου Ευγενία"
+    },
+    {
+      "id": "mavla",
+      "name": "Βλαχοπούλου Μάρω"
+    },
+    {
+      "id": "geor",
+      "name": "Γεωργιάδης Χρήστος"
+    },
+    {
+      "id": "gevan",
+      "name": "Ευαγγελίδης Γεώργιος"
+    },
+    {
+      "id": "kitsios",
+      "name": "Κίτσιος Φώτιος"
+    },
+    {
+      "id": "kmarg",
+      "name": "Μαργαρίτης Κωνσταντίνος"
+    },
+    {
+      "id": "mavridis",
+      "name": "Μαυρίδης Ιωάννης"
+    },
+    {
+      "id": "nikolai",
+      "name": "Νικολαΐδης Ιωάννης"
+    },
+    {
+      "id": "stelios",
+      "name": "Ξυνόγαλος Στυλιανός"
+    },
+    {
+      "id": "yrefanid",
+      "name": "Ρεφανίδης Ιωάννης"
+    },
+    {
+      "id": "manos",
+      "name": "Ρουμελιώτης Μάνος"
+    },
+    {
+      "id": "samaras",
+      "name": "Σαμαράς Νικόλαος"
+    },
+    {
+      "id": "maya",
+      "name": "Σατρατζέμη Μαρία"
+    },
+    {
+      "id": "sifalera",
+      "name": "Σιφαλέρας Άγγελος"
+    },
+    {
+      "id": "stiakakis",
+      "name": "Στειακάκης Εμμανουήλ"
+    },
+    {
+      "id": "tambouris",
+      "name": "Ταμπούρης Ευθύμιος"
+    },
+    {
+      "id": "achat",
+      "name": "Χατζηγεωργίου Αλέξανδρος"
+    },
+    {
+      "id": "dcv",
+      "name": "Χρήστου - Βαρσακέλης Δημήτριος"
+    },
+    {
+      "id": "kpsannis",
+      "name": "Ψάννης Κωνσταντίνος"
+    },
+    {
+      "id": "kvergidis",
+      "name": "Βεργίδης Κωνσταντίνος"
+    },
+    {
+      "id": "dasilas",
+      "name": "Δασίλας Απόστολος"
+    },
+    {
+      "id": "kaskalis",
+      "name": "Κασκάλης Θεόδωρος"
+    },
+    {
+      "id": "emamatas",
+      "name": "Μαμάτας Ελευθέριος"
+    },
+    {
+      "id": "mmadas",
+      "name": "Μαντάς Μιχαήλ"
+    },
+    {
+      "id": "papadimitriou",
+      "name": "Παπαδημητρίου Παναγιώτης"
+    },
+    {
+      "id": "stavrop",
+      "name": "Σταυρόπουλος Αντώνιος"
+    },
+    {
+      "id": "kfouskas",
+      "name": "Φούσκας Κωνσταντίνος"
+    },
+    {
+      "id": "ampatzoglou",
+      "name": "Αμπατζόγλου Απόστολος"
+    },
+    {
+      "id": "kgiannou",
+      "name": "Γιαννουτάκης Κωνσταντίνος"
+    },
+    {
+      "id": "gkoloniari",
+      "name": "Κολωνιάρη Γεωργία"
+    },
+    {
+      "id": "spetrido",
+      "name": "Πετρίδου Σοφία"
+    },
+    {
+      "id": "eftprot",
+      "name": "Πρωτοπαπαδάκης Ευτύχιος"
+    },
+    {
+      "id": "iliass",
+      "name": "Σακελλαρίου Ηλίας"
+    },
+    {
+      "id": "sourstav",
+      "name": "Σουραβλάς Σταύρος"
+    },
+    {
+      "id": "pfoul",
+      "name": "Φουληράς Παναγιώτης"
+    },
+    {
+      "id": "kantazoe",
+      "name": "Κανταρίδου Ζωή"
+    },
+    {
+      "id": "akarakasidis",
+      "name": "Καρακασίδης Αλέξανδρος"
+    },
+    {
+      "id": "kkokk",
+      "name": "Κοκκινίδης Κωνσταντίνος-Ηρακλής"
+    },
+    {
+      "id": "mastoras",
+      "name": "Μάστορας Θεόδωρος"
+    },
+    {
+      "id": "trakatelis",
+      "name": "Τρακατέλης Γεώργιος"
+    },
+    {
+      "id": "halkidis",
+      "name": "Χαλκίδης Σπυρίδων"
+    },
+    {
+      "id": "mmilossi",
+      "name": "Μυλώση Μαρία"
+    },
+    {
+      "id": "tzafilkou",
+      "name": "Τζαφίλκου Αικατερίνη"
+    },
+    {
+      "id": "kouzinopoulos",
+      "name": "Κουζινόπουλος Χαράλαμπος"
+    },
+    {
+      "id": "nfachantidis",
+      "name": "Φαχαντίδης Νικόλαος"
+    },
+    {
+      "id": "apamp",
+      "name": "Παμπούρη Αναστασία"
+    },
+    {
+      "id": "giannouli",
+      "name": "Γιαννούλη Βασιλική"
+    },
+    {
+      "id": "pilavaki",
+      "name": "Πηλαβάκη Δήμητρα",
+      "url": "mailto:d.pilavaki@uom.edu.gr"
+    },
+    {
+      "id": "tsakalidis",
+      "name": "Tσακαλίδης Γεώργιος",
+      "url": "mailto:giorgos.tsakalidis@uom.edu.gr"
+    },
+    {
+      "id": "gpapadima",
+      "name": "Παπαδήμα Γενοβέφα",
+      "url": "mailto:gpapadima@uom.edu.gr"
+    },
+    {
+      "id": "papaoikonomou",
+      "name": "Παπαοικονόμου Αντώνης",
+      "url": "mailto:papaoiko@sch.gr"
+    },
+    {
+      "id": "arvanitou",
+      "name": "Αρβανίτου Ελβίρα-Μαρία",
+      "url": "mailto:e.arvanitou@uom.edu.gr"
+    },
+    {
+      "id": "tikva",
+      "name": "Τίκβα Χριστίνα",
+      "url": "mailto:ch.tikva@uom.edu.gr"
+    },
+    {
+      "id": "kat",
+      "name": "Κωνσταντίνος Ταραμπάνης"
+    },
+    {
+      "id": "simv",
+      "name": "Συμβασιούχος Διδάσκων",
+      "url": "uom.gr/dai"
+    }
+  ]
+}

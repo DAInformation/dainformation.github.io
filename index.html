@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+  <title>DAInformation</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+</head>
+
+<body>
+  <canvas></canvas>
+  <div class="header-container">
+    <a href="./"><img class="logo" src="assets/logo.webp" alt="DAInformation"></a>
+    <h1>Εφαρμοσμένη Πληροφορική ΠΑ.ΜΑΚ.</h1>
+  </div>
+
+  <div class="instructions-container">
+    <h3>ΟΔΗΓΙΕΣ ΧΡΗΣΗΣ ΙΣΤΟΣΕΛΙΔΑΣ</h3>
+    <ul>
+      <li>Κάντε κλικ στο εξάμηνο που επιθυμείτε για να εμφανιστούν τα <strong>αντίστοιχα μαθήματα</strong></li>
+      <li>Τα μαθήματα για τα οποία υπάρχει επιπλέον υλικό (λυμένες ασκήσεις, σημειώσεις, κλπ.) εμφανίζουν το λογότυπο του GitHub στο οποίο κάνοντας κλικ μεταφέρεστε αυτόματα.</li>
+    </ul>
+  </div>
+
+  <div class="specialization-btn-container">
+    <button class="specialization-btn active" data-specialization="ALL">ΟΛΑ</button>
+    <button class="specialization-btn" data-specialization="CS">ΕΤΥ</button>
+    <button class="specialization-btn" data-specialization="IS">ΠΣ</button>
+  </div>
+
+  <div class="semester-btn-container">
+    <button class="semester-btn" data-semester="semester1">Εξάμηνο 1</button>
+    <button class="semester-btn" data-semester="semester2">Εξάμηνο 2</button>
+    <button class="semester-btn" data-semester="semester3">Εξάμηνο 3</button>
+    <button class="semester-btn" data-semester="semester4">Εξάμηνο 4</button>
+    <button class="semester-btn" data-semester="semester5">Εξάμηνο 5</button>
+    <button class="semester-btn" data-semester="semester6">Εξάμηνο 6</button>
+    <button class="semester-btn" data-semester="semester7">Εξάμηνο 7</button>
+    <button class="semester-btn" data-semester="semester8">Εξάμηνο 8</button>
+    <button class="semester-btn" data-semester="semester9">Παιδαγωγική και Διδακτική Επάρκεια</button>
+  </div>
+
+  <div class="semester-select-container">
+    <select class="semester-select" id="semester-select">
+      <option>Επέλεξε εξάμηνο</option>
+      <option value="semester1">Εξάμηνο 1</option>
+      <option value="semester2">Εξάμηνο 2</option>
+      <option value="semester3">Εξάμηνο 3</option>
+      <option value="semester4">Εξάμηνο 4</option>
+      <option value="semester5">Εξάμηνο 5</option>
+      <option value="semester6">Εξάμηνο 6</option>
+      <option value="semester7">Εξάμηνο 7</option>
+      <option value="semester8">Εξάμηνο 8</option>
+      <option value="semester9">Παιδαγωγική και Διδακτική Επάρκεια</option>
+    </select>
+  </div>
+  
+
+  <div id="semester">
+    <div id="courses-container"></div>
+  </div>
+
+  <button id="scroll-to-top-btn"><img src="assets/arrow.webp" alt="arrow"></button>
+
+  <footer>
+    <p>Created by <a href="https://github.com/madskgg">madskgg</a> and <a href="https://github.com/4yx">4yx</a> </p>
+    <div class="social">
+      <a href="faq.html"><img src="assets/info.webp" alt="faqs"></a>
+      <a href="https://uom.gr/dai" target="_blank"><img src="assets/uom.webp" alt="UoM"></a>
+      <a href="https://my.uom.gr/" target="_blank"><img src="assets/myuom.webp" alt="myUOM"></a>
+      <a href="https://discord.gg/BXRnTKMxYH" target="_blank"><img src="assets/discord.webp" alt="discord"></a>
+      </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script src="js/bg.js"></script>
+</body>
+
+</html>

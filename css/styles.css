@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap');
+
+body {
+  font-family: 'Manrope', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #050a1b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+canvas {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid rgb(32, 32, 32);
+  background-color: #030e30;
+  z-index: 1;
+}
+
+.logo {
+  height: 60px;
+  margin-right: auto;
+  margin-left: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: 20px;
+  color: white;
+  font-size: 2vw;
+  font-weight: bold;
+  text-shadow: 2px 2px #333;
+}
+
+a { 
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 800;
+}
+
+a:hover {
+  color: #0a4d96;
+}
+
+.instructions-container {
+  background-color: rgba(224, 224, 224, 0.856);
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 35px;
+  box-shadow: 0 0 5px #ccc;
+  margin: 20px auto;
+  max-width: 80%;
+  padding: 20px;
+  z-index: 1;
+}
+
+.instructions-container h3 {
+  font-size: 28px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.info-window {
+  margin: 30px;
+  padding: 15px;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 35px;
+  background-color: rgba(224, 224, 224, 0.856);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  z-index: 1;
+}
+
+.info-window h1 {
+  color: #007bff;
+  text-shadow: 2px 2px #dedede;
+}
+
+.info-window p {
+  font-size: 18px;
+}
+
+.semester-btn-container, .specialization-btn-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  z-index: 1;
+}
+
+.semester-btn, .specialization-btn {
+  background-color: rgba(224, 224, 224, 0.788);;
+  border-color: black;
+  padding: 10px 20px;
+  margin: 5px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+  font-size: 18px;
+  text-shadow: 1px 1px #333;
+  box-shadow: 2px 2px 2px #666;
+}
+
+.semester-btn:hover, .specialization-btn:hover {
+  background-color: #9c9999;
+}
+
+.semester-btn.active, .specialization-btn.active {
+  background-color: #007bff;
+  color: #fff;
+  animation: bounce 0.3s linear;
+  box-shadow: 2px 2px 2px #666;
+}
+
+.semester {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.semester-select-container {
+  max-width: 300px;
+  margin: 0 auto 25px;
+  display: none; 
+  z-index: 1;
+}
+
+.semester-select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.course{
+  width: 85vh;
+  margin: 10px;
+  padding: 15px;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 35px;
+  background-color: rgba(224, 224, 224, 0.856);
+  box-shadow: 0 0 5px #ccc;
+  display: none;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  z-index: 1;
+}
+
+.course.active {
+  display: inline-block;
+  vertical-align: top;
+  opacity: 1;
+  margin-bottom: 40px;
+}
+
+.course.hidden {
+  display: none;
+}
+
+.course h3 {
+  font-size: 28px;
+  color: #333;
+  margin: 0;
+  text-shadow: 1px 1px #ccc;
+}
+
+.professor-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.professor-container li {
+  font-size: 24px;
+  color: #007bff;
+  margin: 0;
+  margin-bottom: 0;
+  text-shadow: 1px 1px #ccc;
+}
+
+.course h6 {
+  color: #000000;
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  text-shadow: 1px 1px #ccc;
+}
+
+.course p, span, li {
+  font-size: 18px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+ol, ul {
+  margin: 0px 10px;
+  padding: 0px 10px;
+}
+
+.course-image {
+  display: inline-block;
+  width: 10%;
+  height: auto;
+  margin: 0px;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(-5px);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+
+  75% {
+    transform: translateY(-2.5px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+footer {
+  margin-top: auto;
+  background-color: #030e30;
+  display: flex;
+  color: white;
+  font-size: small;
+  border-top: 2px solid rgb(32, 32, 32);
+  z-index: 1;
+}
+
+footer p {
+  margin-left: 10px;
+}
+
+.social {
+  margin-left: auto;
+  margin-right: 10px
+}
+
+.social img {
+  height: 20px;
+  margin-top: 11px;
+  margin-right: 5px;
+  transition: transform 0.5s ease;
+}
+
+footer img:hover {
+  transform: rotate(360deg);
+  transition: transform 0.5s ease;
+}
+
+#scroll-to-top-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 5px;
+  padding: 10px;
+  z-index: 9999;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0s linear 0.3s;
+  border: none;
+  background: none;
+}
+
+#scroll-to-top-btn img {
+  width: 50px;
+}
+
+#scroll-to-top-btn.show {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+/* Μobile and low resolution devices */
+@media (max-width: 767px) {
+  .semester-select-container {
+    display: block; 
+  }
+  
+  .semester-btn-container {
+    display: none; 
+  }
+
+  .header-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-container h1 {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1366px) {
+  .course {
+    width: 70vh;
+  }
+}
+
+@media (min-width: 1366px) and (max-width: 1920px) {
+  .course {
+    width: 75vh;
+  }
+}
