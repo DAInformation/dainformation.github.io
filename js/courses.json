@@ -1310,7 +1310,7 @@
           "code": "CSE--- (Νέο Μάθημα)",
           "professor": ["kgiannou", "halkidis"],
           "github": "",
-          "url": "",
+          "url": "https://openeclass.uom.gr/courses/DAI241/",
           "review": "",
           "introduction": "ΜΗ ΔΙΑΘΕΣΙΜΕΣ ΠΛΗΡΟΦΟΡΙΕΣ",
           "recommended_books": ""
@@ -1606,7 +1606,7 @@
         {
           "title": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ ΦΟΙΤΗΤΩΝ",
           "code": "AIE096",
-          "professor": "kvergidis",
+          "professor": "nikolai",
           "github": "",
           "url": "",
           "review": "",
@@ -2110,7 +2110,7 @@
         {
           "title": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ ΦΟΙΤΗΤΩΝ",
           "code": "AIE096",
-          "professor": "kvergidis",
+          "professor": "nikolai",
           "github": "",
           "url": "",
           "review": "",
