@@ -463,7 +463,7 @@
         },
         {
           "title": "ΔΙΑΧΕΙΡΙΣΗ ΈΡΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ",
-          "code": "ISC--- (Αντικαθιστά το μάθημα ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΛΟΓΙΣΤΙΚΗ)",
+          "code": "AIC306 (Αντικαθιστά το μάθημα ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΛΟΓΙΣΤΙΚΗ)",
           "professor": ["mmadas", "simv", "tambouris"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Management-of-Information-Technology-Projects",
           "url": "https://openeclass.uom.gr/courses/DAI138/",
@@ -1114,7 +1114,7 @@
         },
         {
           "title": "ΔΙΑΧΕΙΡΙΣΗ ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΩΝ ΚΙΝΔΥΝΩΝ",
-          "code": "ISE---",
+          "code": "ISC604",
           "professor": "dasilas",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI176/",
@@ -1172,7 +1172,7 @@
       "courses": [
         {
           "title": "ΑΚΑΔΗΜΑΪΚΕΣ ΔΕΞΙΟΤΗΤΕΣ ΣΤΗΝ ΑΓΓΛΙΚΗ",
-          "code": "AIE---",
+          "code": "AIE713",
           "professor": "kantazoe",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Academic-Skills-In-English",
           "url": "https://openeclass.uom.gr/courses/DAI152/",
@@ -1193,7 +1193,7 @@
         },
         {
           "title": "ΜΗΧΑΝΕΣ ΑΝΑΖΗΤΗΣΗΣ ΚΑΙ ΑΝΑΛΥΣΗ ΚΕΙΜΕΝΟΥ",
-          "code": "CSE---",
+          "code": "CSE708",
           "professor": "gkoloniari",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Information-Retrieval-and-Search-Engines",
           "url": "https://openeclass.uom.gr/courses/DAI148/",
@@ -1224,7 +1224,7 @@
         },
         {
           "title": "ΣΧΕΔΙΑΣΗ ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΨΗΦΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
-          "code": "CSE---",
+          "code": "CSE709",
           "professor": "kaskalis",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI206/",
@@ -1245,7 +1245,7 @@
         },
         {
           "title": "ΤΕΧΝΟΛΟΓΙΕΣ BLOCKCHAIN ΚΑΙ ΑΠΟΚΕΝΤΡΩΜΕΝΕΣ ΕΦΑΡΜΟΓΕΣ",
-          "code": "CSE---",
+          "code": "CSE710",
           "professor": ["mavridis", "pfoul", "mastoras"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Blockchain-Technologies-And-Decentralized-Applications",
           "url": "https://openeclass.uom.gr/courses/DAI211/",
@@ -1307,7 +1307,7 @@
         },
         {
           "title": "ΕΦΑΡΜΟΣΜΕΝΗ ΑΡΙΘΜΗΤΙΚΗ ΑΝΑΛΥΣΗ",
-          "code": "CSE--- (Νέο Μάθημα)",
+          "code": "CSE711 (Νέο Μάθημα)",
           "professor": ["kgiannou", "halkidis"],
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI241/",
@@ -1406,7 +1406,7 @@
         },
         {
           "title": "ΑΝΑΚΑΛΥΨΗ ΓΝΩΣΗΣ ΣΕ ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
-          "code": "ISE---",
+          "code": "ISE709",
           "professor": "gkoloniari",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Knowledge-Discovery-from-Databases",
           "url": "https://openeclass.uom.gr/courses/DAI218/",
@@ -1432,7 +1432,7 @@
         },
         {
           "title": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΑΚΥΒΕΡΝΗΣΗ",
-          "code": "ISE---",
+          "code": "ISE710",
           "professor": "tambouris",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -1441,7 +1441,7 @@
         },
         {
           "title": "ΠΛΗΡΟΦΟΡΙΚΗ ΚΑΙ ΒΙΩΣΙΜΗ ΑΝΑΠΤΥΞΗ",
-          "code": "ISE---",
+          "code": "ISE711",
           "professor": "stiakakis",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI220/",
@@ -1677,7 +1677,7 @@
         },
         {
           "title": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ ΚΑΙ ΔΙΑΔΙΚΤΥΑΚΩΝ ΕΦΑΡΜΟΓΩΝ",
-          "code": "CSE---",
+          "code": "CSE7--",
           "professor": "mavridis",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -1698,7 +1698,7 @@
         },
         {
           "title": "ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΚΑΙ ΛΗΨΗ ΑΠΟΦΑΣΕΩΝ",
-          "code": "CSE---",
+          "code": "CSE809",
           "professor": "dcv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI185/",
@@ -1719,7 +1719,7 @@
         },
         {
           "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
-          "code": "CSE---",
+          "code": "CSE810",
           "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI383/",
@@ -1740,7 +1740,7 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΔΙΑΔΙΚΤΥΟΥ",
-          "code": "CSE---",
+          "code": "CSE811",
           "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI217/",
@@ -1761,7 +1761,7 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ",
-          "code": "CSE---",
+          "code": "CSE812",
           "professor": "emamatas",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI212/",
@@ -1782,7 +1782,7 @@
         },
         {
           "title": "ΚΙΝΗΤΗ ΚΑΙ ΔΙΑΧΥΤΗ ΥΠΟΛΟΓΙΣΤΙΚΗ",
-          "code": "CSE---",
+          "code": "CSE8--",
           "professor": "kpsannis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Mobile-and-Wireless-Communications-Systems",
           "url": "https://openeclass.uom.gr/courses/UNI307/",
@@ -1798,7 +1798,7 @@
         },
         {
           "title": "ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ",
-          "code": "CSE---",
+          "code": "CSE8--",
           "professor": "sifalera",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI114",
@@ -1918,7 +1918,7 @@
         },
         {
           "title": "ΕΝΟΠΟΙΗΜΕΝΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΚΑΙ ΕΦΑΡΜΟΓΕΣ",
-          "code": "ISE---",
+          "code": "ISE8--",
           "professor": "kpsannis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Unified-Communications-and-Applications",
           "url": "https://openeclass.uom.gr/DAI125",
@@ -1979,7 +1979,7 @@
         },
         {
           "title": "ΗΘΙΚΗ ΚΑΙ ΔΙΑΚΥΒΕΡΝΗΣΗ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ",
-          "code": "ISE---",
+          "code": "ISE8--",
           "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI154/",
@@ -2000,7 +2000,7 @@
         },
         {
           "title": "ΘΕΩΡΙΑ ΠΑΙΓΝΙΩΝ",
-          "code": "ISE---",
+          "code": "ISE8--",
           "professor": "yrefanidis",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -2021,7 +2021,7 @@
         },
         {
           "title": "ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ",
-          "code": "ISE---",
+          "code": "ISE8--",
           "professor": "simv",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -2037,7 +2037,7 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
-          "code": "ISE---",
+          "code": "ISE8--",
           "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
@@ -2047,7 +2047,7 @@
         },
         {
           "title": "ΑΝΑΠΤΥΞΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ ΥΠΟΛΟΓΙΣΤΩΝ",
-          "code": "ISE---",
+          "code": "ISE8--",
           "professor": "pfoul",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI108/",
