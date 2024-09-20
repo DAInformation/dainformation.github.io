@@ -1677,7 +1677,7 @@
         },
         {
           "title": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ ΚΑΙ ΔΙΑΔΙΚΤΥΑΚΩΝ ΕΦΑΡΜΟΓΩΝ",
-          "code": "CSE7--",
+          "code": "CSE808",
           "professor": "mavridis",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -1782,7 +1782,7 @@
         },
         {
           "title": "ΚΙΝΗΤΗ ΚΑΙ ΔΙΑΧΥΤΗ ΥΠΟΛΟΓΙΣΤΙΚΗ",
-          "code": "CSE8--",
+          "code": "CSE813",
           "professor": "kpsannis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Mobile-and-Wireless-Communications-Systems",
           "url": "https://openeclass.uom.gr/courses/UNI307/",
@@ -1798,7 +1798,7 @@
         },
         {
           "title": "ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ",
-          "code": "CSE8--",
+          "code": "CSE814",
           "professor": "sifalera",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI114",
@@ -1918,7 +1918,7 @@
         },
         {
           "title": "ΕΝΟΠΟΙΗΜΕΝΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΚΑΙ ΕΦΑΡΜΟΓΕΣ",
-          "code": "ISE8--",
+          "code": "ISE807",
           "professor": "kpsannis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Unified-Communications-and-Applications",
           "url": "https://openeclass.uom.gr/DAI125",
@@ -1979,7 +1979,7 @@
         },
         {
           "title": "ΗΘΙΚΗ ΚΑΙ ΔΙΑΚΥΒΕΡΝΗΣΗ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ",
-          "code": "ISE8--",
+          "code": "ISE808",
           "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI154/",
@@ -2000,7 +2000,7 @@
         },
         {
           "title": "ΘΕΩΡΙΑ ΠΑΙΓΝΙΩΝ",
-          "code": "ISE8--",
+          "code": "ISE809",
           "professor": "yrefanidis",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -2021,7 +2021,7 @@
         },
         {
           "title": "ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ",
-          "code": "ISE8--",
+          "code": "ISE810",
           "professor": "simv",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -2037,7 +2037,7 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
-          "code": "ISE8--",
+          "code": "ISE811",
           "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
@@ -2047,7 +2047,7 @@
         },
         {
           "title": "ΑΝΑΠΤΥΞΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ ΥΠΟΛΟΓΙΣΤΩΝ",
-          "code": "ISE8--",
+          "code": "ISE812",
           "professor": "pfoul",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI108/",
