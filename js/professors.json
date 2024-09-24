@@ -219,8 +219,23 @@
       "url": "mailto:ch.tikva@uom.edu.gr"
     },
     {
-      "id": "kat",
-      "name": "Κωνσταντίνος Ταραμπάνης"
+      "id": "loukas",
+      "name": "Τσιρώνης Λουκάς"
+    },
+    {
+      "id": "sotskap",
+      "name": "Σκαπέρας Σωτήριος",
+      "url": "https://swn.uom.gr/member/skaperas-sotiris"
+    },
+    {
+      "id": "ziakis",
+      "name": "Ζιάκης Χρήστος",
+      "url": "http://iseb.uom.gr/users/christos-ziakis"
+    },
+    {
+      "id": "d.amanatidis",
+      "name": "Αμανατίδης Δημήτριος",
+      "url": "mailto:"
     },
     {
       "id": "simv",

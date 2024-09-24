@@ -6,7 +6,7 @@
         {
           "title": "ΑΛΓΟΡΙΘΜΟΙ",
           "code": "AIC101 (Διδακτική Επάρκεια)",
-          "professor": "simv",
+          "professor": "d.amanatidis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Algorithms",
           "url": "https://openeclass.uom.gr/courses/DAI164/",
           "review": "Tw5MNu9has4g93bL6",
@@ -120,7 +120,7 @@
         {
           "title": "ΣΥΣΤΗΜΑΤΑ ΥΠΟΛΟΓΙΣΤΩΝ",
           "code": "AIC105",
-          "professor": ["emamatas", "papadimitriou", "sourstav"],
+          "professor": ["papadimitriou", "sourstav", "trakatelis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Computer-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI166/",
           "review": "HFAxwtHFfTMzG5KZ7",
@@ -224,7 +224,7 @@
         {
           "title": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIC202",
-          "professor": "gkoloniari",
+          "professor": ["gevan", "gkoloniari"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Databases",
           "url": "https://openeclass.uom.gr/courses/DAI104/",
           "review": "EiNNQg9GuxLazuey5",
@@ -417,7 +417,7 @@
         {
           "title": "ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ",
           "code": "AIC303",
-          "professor": ["kmarg", "sourstav"],
+          "professor": ["sourstav", "simv"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester3/Operating-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI205/",
           "review": ["rvXJfZrkPMX7uMxR7", "5BLZambKWi2Ht8nd7"],
@@ -464,7 +464,7 @@
         {
           "title": "ΔΙΑΧΕΙΡΙΣΗ ΈΡΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ",
           "code": "AIC306 (Αντικαθιστά το μάθημα ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΛΟΓΙΣΤΙΚΗ)",
-          "professor": ["mmadas", "simv", "tambouris"],
+          "professor": "mmadas",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Management-of-Information-Technology-Projects",
           "url": "https://openeclass.uom.gr/courses/DAI138/",
           "review": "HsfcJPssmZpqcZ9B9",
@@ -511,7 +511,7 @@
         {
           "title": "ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ",
           "code": "ISC301",
-          "professor": ["simv", "mastoras"],
+          "professor": ["ziakis", "mastoras"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester3/Electronic-Business",
           "url": "https://openeclass.uom.gr/courses/DAI145/",
           "review": "ZT4ykR3VTJQu7HFJ9",
@@ -678,7 +678,7 @@
         {
           "title": "ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΗ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "ISC401",
-          "professor": ["tambouris", "kkokk"],
+          "professor": "tambouris",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/System-Analysis-and-Design",
           "url": "https://openeclass.uom.gr/courses/DAI189/",
           "review": "Qpx2abUB2Nyn3KR86",
@@ -746,7 +746,7 @@
         {
           "title": "ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ",
           "code": "AIC502",
-          "professor": "yrefanidis",
+          "professor": "yrefanid",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Artificial-Intelligence",
           "url": "https://classroom.google.com/",
           "review": "4VF54i2U7UDbMD3u7",
@@ -896,7 +896,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "ISC501",
-          "professor": ["emamatas", "spetrido"],
+          "professor": ["spetrido", "sotskap"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Business-Data-Communications",
           "url": "https://classroom.google.com/",
           "review": "aMBXYGAhKyAbbyH8A",
@@ -948,7 +948,7 @@
         {
           "title": "ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ",
           "code": "ISC503",
-          "professor": "simv",
+          "professor": "ziakis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Digital-Marketing",
           "url": "https://openeclass.uom.gr/courses/DAI149/",
           "review": "9SMV1Y84GusSV8fi9",
@@ -995,7 +995,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ",
           "code": "AIC602",
-          "professor": ["sifalera", "eftprot"],
+          "professor": ["eftprot", "dcv"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Operations-Research",
           "url": "https://openeclass.uom.gr/courses/DAI120/",
           "review": "jymXwJ38AaHrfv118",
@@ -1068,7 +1068,7 @@
         {
           "title": "ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ",
           "code": "CSC602",
-          "professor": "yrefanidis",
+          "professor": "yrefanid",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Theory-of-Computation",
           "url": "https://classroom.google.com/",
           "review": "rz9sqnmGm45AqfFC9",
@@ -1504,10 +1504,10 @@
         },
         {
           "title": "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ",
-          "code": "ISE703 (Συνδιδασκαλία με το αντίστοιχο μάθημα της ΟΔΕ)",
-          "professor": "kat",
+          "code": "ISE703 (Συνδιδασκαλία με το αντίστοιχο μάθημα της ΟΔΕ \"Διοίκηση Εφοδιαστικής Αλυσίδας\")",
+          "professor": "loukas",
           "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI139/",
+          "url": "https://openeclass.uom.gr/courses/BA166/",
           "review": "SHPuMeSun9dfRRhi9",
           "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>σχεδιάζουν, προγραμματίζουν και εκτελούν τις κύριες και υποστηρικτικές λειτουργίες της Διοίκησης Εφοδιαστικής Αλυσίδας (ΔΕΑ)</li><li>επιλέγουν και εφαρμόζουν τα κατάλληλα εργαλεία, μεθόδους και τεχνικές για την υποστήριξη αποφάσεων σε θέματα βέλτιστου σχεδιασμού και λειτουργίας της εφοδιαστικής αλυσίδας (π.χ. σχεδιασμός δικτύου, χωροθέτηση εγκαταστάσεων, πρόβλεψη ζήτησης, διαχείριση αποθεμάτων, δρομολόγηση οχημάτων)</li><li>επιλέγουν και εφαρμόζουν νέες τεχνολογίες, πληροφοριακά συστήματα και καινοτόμες πρακτικές στη λειτουργία της ΔΕΑ (π.χ. Supply Chain 4.0, Warehouse 4.0, Transport 4.0), με έμφαση στην οργάνωση και λειτουργία αποθηκευτικών χώρων, τη διαχείριση του στόλου των οχημάτων διανομής, καθώς και καινοτόμα μοντέλα πολυκαναλικής διανομής.</li></ul>",
           "recommended_books": [
@@ -2001,7 +2001,7 @@
         {
           "title": "ΘΕΩΡΙΑ ΠΑΙΓΝΙΩΝ",
           "code": "ISE809",
-          "professor": "yrefanidis",
+          "professor": "yrefanid",
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "Jv8mamwgbXfdi1Jw5",
@@ -2134,7 +2134,7 @@
       "courses": [
         {
           "title": "ΠΛΗΡΟΦΟΡΙΚΗ Χ: ΕΚΠΑΙΔΕΥΤΙΚΕΣ ΚΑΙ ΚΟΙΝΩΝΙΚΕΣ ΕΦΑΡΜΟΓΕΣ ΕΥΦΥΩΝ ΤΕΧΝΟΛΟΓΙΩΝ ΚΑΙ ΡΟΜΠΟΤΙΚΗΣ",
-          "code": "ΕΑ0517 (ΤΜΗΜΑ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ)",
+          "code": "ΕΑ0517 (ΕΚΠ, 5ο εξάμηνο)",
           "professor": "nfachantidis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/OtherDepartments/Informatics-X",
           "url": "https://openeclass.uom.gr/courses/ESP172/",
@@ -2160,7 +2160,7 @@
         },
         {
           "title": "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΑΙΔΑΓΩΓΙΚΗ",
-          "code": "ΚΕ0105-1 (ΤΜΗΜΑ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ)",
+          "code": "ΚΕ0105-1 (ΕΚΠ, 1ο εξάμηνο)",
           "professor": "apamp",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/ESP192/",
@@ -2181,7 +2181,7 @@
         },
         {
           "title": "ΕΚΠΑΙΔΕΥΤΙΚΗ ΨΥΧΟΛΟΓΙΑ",
-          "code": "ΚΕ0116-1 (ΤΜΗΜΑ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ)",
+          "code": "ΚΕ0116-1 (ΕΚΠ, 2ο εξάμηνο)",
           "professor": "giannouli",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI203/",
@@ -2202,10 +2202,10 @@
         },
         {
           "title": "ΚΟΙΝΩΝΙΟΛΟΓΙΑ ΤΗΣ ΕΚΠΑΙΔΕΥΣΗΣ",
-          "code": "ΚΕ0206 (ΤΜΗΜΑ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ)",
-          "professor": "papaoikonomou",
+          "code": "ΚΕ0206 (ΕΚΠ, 1ο εξάμηνο)",
+          "professor": "simv",
           "github": "",
-          "url": "https://openeclass.uom.gr/courses/UNI332/",
+          "url": "https://openeclass.uom.gr/courses/ESP261/",
           "review": "fWd3gdBRuWXmJauM8",
           "introduction": "Το μάθημα αυτό αποτελεί μια εισαγωγή στο επιστημονικό πεδίο της Κοινωνιολογίας της Εκπαίδευσης, που είναι ο κλάδος της Κοινωνιολογίας με αντικείμενο τη μελέτη και ανάλυση των φαινομένων της αγωγής και της εκπαίδευσης ως κοινωνικών φαινομένων. Στο πλαίσιο αυτό παρουσιάζονται βασικές έννοιες, θεωρητικές αρχές και προβλήματα που συνδέονται με το επιστημονικό αυτό πεδίο. Αναλύεται ακόμη κριτικά η εκπαίδευση αφενός ως παράγοντας βελτίωσης των λειτουργιών του κοινωνικού συστήματος μέσω της μετάδοσης των απαραίτητων γνωστικών, πολιτιστικών και κοινωνικών χαρακτηριστικών και δεξιοτήτων στη νέα γενιά και αφετέρου ως παράγοντας αναπαραγωγής κοινωνικών δομών και κοινωνικών ανισοτήτων.",
           "recommended_books": [
@@ -2218,7 +2218,7 @@
         },
         {
           "title": "ΣΧΟΛΙΚΗ ΨΥΧΟΛΟΓΙΑ",
-          "code": "ΕΑ0403 (ΤΜΗΜΑ ΕΚΠΑΙΔΕΥΤΙΚΗΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΠΟΛΙΤΙΚΗΣ)",
+          "code": "ΕΑ0403 (ΕΚΠ, 3ο εξάμηνο)",
           "professor": "giannouli",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/ESP134/",
