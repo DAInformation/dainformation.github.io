@@ -452,7 +452,7 @@
         {
           "title": "ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ",
           "code": "AIC303",
-          "professor": ["sourstav", "simv"],
+          "professor": ["sourstav"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester3/Operating-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI205/",
           "review": ["rvXJfZrkPMX7uMxR7", "5BLZambKWi2Ht8nd7"],
