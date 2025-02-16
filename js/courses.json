@@ -203,7 +203,7 @@
         {
           "title": "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ",
           "code": "AIC201",
-          "professor": ["kmarg", "sourstav"],
+          "professor": "sourstav",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Computer-Architecture",
           "url": "https://openeclass.uom.gr/courses/DAI195/",
           "review": ["pg26LeC1rA8sMnH18", "fe2eH8Yttm58U3W49"],
@@ -239,7 +239,7 @@
         {
           "title": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIC202",
-          "professor": ["gevan", "gkoloniari"],
+          "professor": ["gevan", "gkoloniari", "tsogkas"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Databases",
           "url": "https://openeclass.uom.gr/courses/DAI104/",
           "review": "EiNNQg9GuxLazuey5",
@@ -286,7 +286,7 @@
         {
           "title": "ΔΙΟΙΚΗΣΗ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ",
           "code": "AIC204",
-          "professor": ["mastoras", "kfouskas"],
+          "professor": ["kfouskas", "seitaridis",  "tsakalidis"],
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI116/",
           "review": "2DwB6FmxxGKEjpP9A",
@@ -307,7 +307,7 @@
         {
           "title": "ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIC205",
-          "professor": ["akarakasidis", "maya", "gkoloniari", "halkidis"],
+          "professor": ["maya", "gkoloniari", "halkidis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Data-Structures",
           "url": "https://openeclass.uom.gr/courses/DAI182/",
           "review": "PzcvaKC3oJxT1z3o7",
@@ -697,7 +697,7 @@
         {
           "title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
           "code": "CSC402",
-          "professor": "simv",
+          "professor": "arvanitou",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Software-Technology",
           "url": "https://openeclass.uom.gr/courses/DAI127/",
           "review": "1vF8v41xcoqbCeLXA",
@@ -979,7 +979,7 @@
         {
           "title": "ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ ΓΙΑ ΚΙΝΗΤΕΣ ΣΥΣΚΕΥΕΣ",
           "code": "AIC601",
-          "professor": ["ampatzoglou", "akarakasidis", "trakatelis"],
+          "professor": ["ampatzoglou", "trakatelis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Mobile-Application-Development",
           "url": "https://openeclass.uom.gr/courses/DAI210/",
           "review": "rjhKKqtyp6WSbfSA7",
@@ -1125,7 +1125,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ ΚΑΙ ΝΕΟΦΥΕΙΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΤΠΕ",
           "code": "ISC602 (Συνδιδασκαλία με το μάθημα ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑ του ΒΣΑΣ)",
-          "professor": "kfouskas",
+          "professor": ["kfouskas", "ziakis", "pachnitsitiridou"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Entrepreneurship-And-Ict-Startups",
           "url": "https://openeclass.uom.gr/courses/DAI197/",
           "review": "BZe6WDntUigJUVm47",
@@ -1750,7 +1750,7 @@
         },
         {
           "title": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ ΚΑΙ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΨΗΦΙΑΚΩΝ ΚΥΚΛΩΜΑΤΩΝ",
-          "code": "CSE806",
+          "code": "CSE806 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
           "professor": "sourstav",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Digital-Design-and-Digital-Circuits-Modeling",
           "url": "https://openeclass.uom.gr/courses/DAI200/",
@@ -1830,7 +1830,7 @@
         {
           "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
           "code": "CSE810",
-          "professor": "simv",
+          "professor": "pilavaki",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI383/",
           "review": "TRFqtHE4SsggEC17A",
@@ -1851,7 +1851,7 @@
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΔΙΑΔΙΚΤΥΟΥ",
           "code": "CSE811",
-          "professor": "simv",
+          "professor": "nikolaidisnikos",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI217/",
           "review": "XpiGcySkVnFf3XQLA",
@@ -1871,7 +1871,7 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ",
-          "code": "CSE812",
+          "code": "CSE812 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
           "professor": "emamatas",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI212/",
@@ -2001,8 +2001,8 @@
         },
         {
           "title": "ΗΘΙΚΗ ΚΑΙ ΔΙΑΚΥΒΕΡΝΗΣΗ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ",
-          "code": "ISE808",
-          "professor": "simv",
+          "code": "ISE808 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
+          "professor": "",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI154/",
           "review": "sdmiRGVQ9zny2bsD6",
@@ -2043,8 +2043,8 @@
         },
         {
           "title": "ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ",
-          "code": "ISE810",
-          "professor": "simv",
+          "code": "ISE810 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
+          "professor": "",
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "4ZrfH5S7wsabE6gB9",
@@ -2060,7 +2060,7 @@
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
           "code": "ISE811",
-          "professor": "simv",
+          "professor": "mmilossi",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
           "review": "3F1dy9Ju4A676Fib7",
@@ -2108,32 +2108,6 @@
     {
       "name": "Other Courses",
       "courses": [
-        {
-          "title": "ΠΛΗΡΟΦΟΡΙΚΗ Χ: ΕΚΠΑΙΔΕΥΤΙΚΕΣ ΚΑΙ ΚΟΙΝΩΝΙΚΕΣ ΕΦΑΡΜΟΓΕΣ ΕΥΦΥΩΝ ΤΕΧΝΟΛΟΓΙΩΝ ΚΑΙ ΡΟΜΠΟΤΙΚΗΣ",
-          "code": "ΕΑ0517 (ΕΚΠ, 5ο εξάμηνο)",
-          "professor": "nfachantidis",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/OtherDepartments/Informatics-X",
-          "url": "https://openeclass.uom.gr/courses/ESP172/",
-          "review": "qEhVP3JJnPQC33BT8",
-          "introduction": "Σε επίπεδο γνώσεων, οι φοιτητές και οι φοιτήτριες, ύστερα από την παρακολούθηση του μαθήματος, θα είναι σε θέση να κατανοήσουν βασικές έννοιες που σχετίζονται με την αξιοποίηση των Ευφυών Τεχνολογιών και της Ρομποτικής στην Εκπαίδευση, βασικές παιδαγωγικές θέσεις για τη δημιουργία κατάλληλων περιβαλλόντων μάθησης και μεθοδολογίες σχεδιασμού δραστηριοτήτων. Ακόμη, θα γνωρίσουν θέματα διδακτικής μεθοδολογίας που αξιοποιεί κατάλληλα τις δυνατότητες αυτών των τεχνολογιών, διδακτικά μοντέλα με θεωρητικές προσεγγίσεις και θα κατανοήσουν τη σύνδεση με τις σχετικές Γνωστικές θεωρίες μάθησης. Σε επίπεδο δεξιοτήτων και χειρισμού οι φοιτητές/τριες θα εξασκηθούν στον εκπαιδευτικό σχεδιασμό μαθησιακού περιεχομένου και στην υλοποίηση εκπαιδευτικών παρεμβάσεων. Θα κατακτήσουν το χειρισμό σύγχρονων διαθέσιμων τεχνολογιών Εκπαιδευτικής Ρομποτικής και τη σύνθεση/δημιουργία κατασκευών αλληλεπιδραστικών, κατάλληλων για την υποστήριξη ποικίλων γνωστικών αντικειμένων και στόχων. Σε επίπεδο ικανοτήτων οι φοιτητές/τριες θα εξασκηθούν στην αξιολόγηση της ποιότητας του εκπαιδευτικού περιεχομένου και στη βελτίωση της εκπαιδευτικής παρέμβασης.",
-          "recommended_books": [
-            {
-              "title": "Μάθηση βασισμένη στο ψηφιακό παιχνίδι",
-              "author": "Prensky Marc",
-              "id": "24174"
-            },
-            {
-              "title": "Μάθηση σε ομάδες",
-              "author": "Jaques David",
-              "id": "24175"
-            },
-            {
-              "title": "Η ρομποτική στην εκπαίδευση",
-              "author": "Alnajjar Fady, Bartneck Christoph, Baxter Paul, Belpaeme Tony, Cappuccio Massimiliano L., Di Dio Cinzia, Eyssel Friederike, Handke Jürgen, Mubin Omar, Obaid Mohammad, Reich-Stiebert Natalia (Συγγρ.) - Φαχαντίδης Νικόλαος, Λεύκος Ιωάννης (Επιμ.)",
-              "id": "122075446"
-            }
-          ]
-        },
         {
           "title": "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΑΙΔΑΓΩΓΙΚΗ",
           "code": "ΚΕ0105-1 (ΕΚΠ, 1ο εξάμηνο)",
