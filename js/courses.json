@@ -6,7 +6,7 @@
         {
           "title": "ΑΛΓΟΡΙΘΜΟΙ",
           "code": "AIC101 (Διδακτική Επάρκεια)",
-          "professor": "d.amanatidis",
+          "professor": "samaras",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Algorithms",
           "url": "https://openeclass.uom.gr/courses/DAI243/",
           "review": "Tw5MNu9has4g93bL6",
@@ -58,7 +58,7 @@
         {
           "title": "ΔΙΑΔΙΚΑΣΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
           "code": "AIC103",
-          "professor": ["eftprot", "stelios", "iliass", "maya", "halkidis"],
+          "professor": ["eftprot", "stelios", "iliass", "kaskalis", "halkidis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Procedural-Programming",
           "url": "https://openeclass.uom.gr/courses/DAI121/",
           "review": "7iQitAPHQrdaRnGQ9",
@@ -115,7 +115,7 @@
         {
           "title": "ΣΥΣΤΗΜΑΤΑ ΥΠΟΛΟΓΙΣΤΩΝ",
           "code": "AIC105",
-          "professor": ["papadimitriou", "sourstav", "trakatelis"],
+          "professor": ["papadimitriou", "sourstav", "emamatas"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester1/Computer-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI166/",
           "review": "HFAxwtHFfTMzG5KZ7",
@@ -239,7 +239,7 @@
         {
           "title": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIC202",
-          "professor": ["gevan", "gkoloniari", "tsogkas"],
+          "professor": ["gkoloniari", "kkokk"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Databases",
           "url": "https://openeclass.uom.gr/courses/DAI104/",
           "review": "EiNNQg9GuxLazuey5",
@@ -286,7 +286,7 @@
         {
           "title": "ΔΙΟΙΚΗΣΗ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ",
           "code": "AIC204",
-          "professor": ["kfouskas", "seitaridis",  "tsakalidis"],
+          "professor": ["kfouskas", "mastoras"],
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI116/",
           "review": "2DwB6FmxxGKEjpP9A",
@@ -307,7 +307,7 @@
         {
           "title": "ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIC205",
-          "professor": ["maya", "gkoloniari", "halkidis"],
+          "professor": ["partarakis", "gkoloniari", "halkidis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Data-Structures",
           "url": "https://openeclass.uom.gr/courses/DAI182/",
           "review": "PzcvaKC3oJxT1z3o7",
@@ -503,8 +503,8 @@
         },
         {
           "title": "ΔΙΑΧΕΙΡΙΣΗ ΈΡΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ",
-          "code": "AIC306 (Αντικαθιστά το μάθημα ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΛΟΓΙΣΤΙΚΗ)",
-          "professor": "mmadas",
+          "code": "AIC306",
+          "professor": ["kvergidis", "kkokk"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Management-of-Information-Technology-Projects",
           "url": "https://openeclass.uom.gr/courses/DAI138/",
           "review": "HsfcJPssmZpqcZ9B9",
@@ -556,7 +556,7 @@
         {
           "title": "ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ",
           "code": "ISC301",
-          "professor": ["ziakis", "mastoras"],
+          "professor": "simv",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester3/Electronic-Business",
           "url": "https://openeclass.uom.gr/courses/DAI145/",
           "review": "ZT4ykR3VTJQu7HFJ9",
@@ -587,7 +587,7 @@
         {
           "title": "ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ",
           "code": "AIC401 (Διδακτική Επάρκεια)",
-          "professor": "kkokk",
+          "professor": "partarakis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Human-Computer-Interaction",
           "url": "https://openeclass.uom.gr/courses/DAI177/",
           "review": "XCdNLyQqop21UXJy8",
@@ -697,7 +697,7 @@
         {
           "title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
           "code": "CSC402",
-          "professor": "arvanitou",
+          "professor": "simv",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Software-Technology",
           "url": "https://openeclass.uom.gr/courses/DAI127/",
           "review": "1vF8v41xcoqbCeLXA",
@@ -854,7 +854,7 @@
         {
           "title": "ΣΥΣΤΗΜΑΤΑ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ",
           "code": "CSC502",
-          "professor": "akarakasidis",
+          "professor": ["gevan", "gkoloniari"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Database-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI207/",
           "review": "DB9e6TLo1xYGjo727",
@@ -906,7 +906,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "ISC501",
-          "professor": ["spetrido", "sotskap"],
+          "professor": ["spetrido", "emamatas"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Business-Data-Communications",
           "url": "https://classroom.google.com/",
           "review": "aMBXYGAhKyAbbyH8A",
@@ -958,7 +958,7 @@
         {
           "title": "ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ",
           "code": "ISC503",
-          "professor": "ziakis",
+          "professor": "simv",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Digital-Marketing",
           "url": "https://openeclass.uom.gr/courses/DAI149/",
           "review": "9SMV1Y84GusSV8fi9",
@@ -1005,7 +1005,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ",
           "code": "AIC602",
-          "professor": ["eftprot", "dcv"],
+          "professor": ["eftprot", "samaras"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Operations-Research",
           "url": "https://openeclass.uom.gr/courses/DAI120/",
           "review": "jymXwJ38AaHrfv118",
@@ -1125,7 +1125,7 @@
         {
           "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ ΚΑΙ ΝΕΟΦΥΕΙΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΤΠΕ",
           "code": "ISC602 (Συνδιδασκαλία με το μάθημα ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑ του ΒΣΑΣ)",
-          "professor": ["kfouskas", "ziakis", "pachnitsitiridou"],
+          "professor": "kfouskas",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester6/Entrepreneurship-And-Ict-Startups",
           "url": "https://openeclass.uom.gr/courses/DAI197/",
           "review": "BZe6WDntUigJUVm47",
@@ -1146,7 +1146,7 @@
         {
           "title": "ΣΤΡΑΤΗΓΙΚΗ ΕΠΙΧΕΙΡΗΣΕΩΝ ΚΑΙ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "ISC603",
-          "professor": ["stiakakis", "kitsios"],
+          "professor": "kitsios",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI202/",
           "review": "98em53oC3gM78AkB8",
@@ -1207,39 +1207,60 @@
           ]
         },
         {
-          "title": "BIG DATA – ΑΝΑΛΥΣΗ ΔΕΔΟΜΕΝΩΝ ΜΕΓΑΛΟΥ ΟΓΚΟΥ",
+          "title": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ ΚΑΙ ΔΙΑΔΙΚΤΥΑΚΩΝ ΕΦΑΡΜΟΓΩΝ",
           "code": "CSE701",
-          "professor": "akarakasidis",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Big-Data-Mining",
-          "url": "https://openeclass.uom.gr/courses/DAI186/",
-          "review": "HfPXXiE2VE1W3VBe8",
-          "introduction": "Το μάθημα αφορά τη χρήση μεθόδων και λογισμικού για τη διαχείριση και ανάλυση δεδομένων μεγάλης κλίμακας, για τα οποία οι συμβατικές μέθοδοι αποθήκευσης και επεξεργασίας δεν επαρκούν. Το μάθημα θα διεξάγεται στην αίοθουσα και στο εργαστήριο και οι φοιτητές θα εξοικειωθούν με συστήματα όπως Hadoop MapReduce, Spark, τη γλώσσα Python και αλγορίθμους εξόρυξης δεδομένων μεγάλης κλίμακας.",
+          "professor": "mavridis",
+          "github": "",
+          "url": "https://classroom.google.com/",
+          "review": "gDNq78LyCBHDs67V8",
+          "introduction": "Ο φοιτητής θα μπορεί:<ul><li>να εξοικειωθεί με τις απαιτήσεις προστασίας των σύγχρονων συστημάτων πληροφορικής και επικοινωνιών,</li><li>να μάθει τις βασικές τεχνικές ασφάλειας των πληροφοριών κατά την τηλεπεξεργασία και ηλεκτρονική μεταφορά τους στο διαδίκτυο με την αξιοποίηση της κρυπτολογίας,</li><li>να αποκτήσει εμπειρίες από την εφαρμογή των παραπάνω τεχνικών σε εργαστηριακές συνθήκες.</li></ul>",
           "recommended_books": [
             {
-              "title": "Εξόρυξη από Μεγάλα Σύνολα Δεδομένων - 3η Έκδοση",
-              "author": "Anand Rajaraman, Jeffrey David Ullman, Jure Leskovec",
-              "id": "94700707"
+              "title": "ΑΣΦΑΛΕΙΑ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+              "author": "ΠΑΓΚΑΛΟΣ ΓΕΩΡΓΙΟΣ,ΜΑΥΡΙΔΗΣ Ι.",
+              "id": "5425"
             },
             {
-              "title": "Εισαγωγή στην εξόρυξη δεδομένων, 2η Έκδοση",
-              "author": "Tan Pang - Ning,Steinbach Michael,Kumar Vipin, Βερύκιος Βασίλειος (επιμέλεια)",
-              "id": "77107675"
+              "title": "Ασφάλεια Δικτύων Υπολογιστών",
+              "author": "Γκρίτζαλης Στέφανος,Γκρίτζαλης Δημήτρης Α.,Κάτσικας Σωκράτης",
+              "id": "9675"
+            }
+          ]
+        },
+        {
+          "title": "ΕΦΑΡΜΟΣΜΕΝΗ ΑΡΙΘΜΗΤΙΚΗ ΑΝΑΛΥΣΗ",
+          "code": "CSE704",
+          "professor": "kgiannou",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI241/",
+          "review": "",
+          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>κατανοούν και να υπολογίζουν τα σφάλματα υπολογισμών και της συσσώρευσής του στις προσεγγιστικές λύσεις</li><li>κατανοούν και να εφαρμόζουν αριθμητικές/υπολογιστικές μεθόδους για την προσεγγιστική επίλυση προβλημάτων που προκύπτουν στην επιστήμη της Πληροφορικής</li><li>κατανοούν τις έννοιες της σύγκλισης ή μη των επαναληπτικών μεθόδων επίλυσης προβλημάτων</li><li>αναπτύσσουν λογισμικό για την αριθμητική επίλυση προβλημάτων της επιστήμης της Πληροφορικής</li></ul><strong>Περιεχόμενα μαθήματος:</strong><ul><li>Θεωρία σφαλμάτων και σφάλματα υπολογισμών</li><li>Αριθμητική επίλυση εξισώσεων (μέθοδοι διχοτόμησης, εσφαλμένης θέσης, σταθερού σημείου, Newton-Raphson, τέμνουσας, Steffensen, Muller)</li><li>Αριθμητική επίλυση γραμμικών συστημάτων με άμεσες (Gauss, Gauss-Jordan, Thomas, παραγοντοποίηση LU, παραγοντοποίηση Choleski) και επαναληπτικές (Jacobi, Gauss-Seidel) μεθόδους</li><li>Μέθοδοι παρεμβολής (Lagrange, Neville, διηρημένων διαφορών, κυβικής σφηνοειδής)</li><li>Προσέγγιση συναρτήσεων με μεθόδους παρεμβολής και ελαχίστων τετραγώνων (πίνακες διαφορών, τελεστές πεπερασμένων διαφορών, παρεμβολή Lagrange, παρεμβολή Newton, παρεμβολή Hermite, τετραγωνικές και κυβικές splines)</li><li>Αριθμητική παραγώγιση (Taylor) και ολοκλήρωση (τραπεζίου, Simpson)</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Υπολογιστικά Μαθηματικά: Υπολογιστικές Μέθοδοι Αριθμητικής Ανάλυσης με χρήση Matlab",
+              "author": "Γραββάνης Γεώργιος",
+              "id": "33154039"
             },
             {
-              "title": "Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό",
-              "author": "Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία",
-              "id": "31391"
+              "title": "Αριθμητική Ανάλυση: Μια αλγοριθμική προσέγγιση",
+              "author": "Μισυρλής Νικόλαος",
+              "id": "112696081"
             },
             {
-              "title": "ΕΞΟΡΥΞΗ ΔΕΔΟΜΕΝΩΝ",
-              "author": "C.AGGARWAL",
-              "id": "122075333"
+              "title": "Υπολογιστικά Μαθηματικά: Αριθμητικές μέθοδοι βελτιστοποίησης με υλοποίηση σε MATLAB (Octave) και Python",
+              "author": "Φαμέλης Θ. Ιωάννης",
+              "id": "102071614"
+            },
+            {
+              "title": "Εισαγωγή στην αριθμητική ανάλυση",
+              "author": "Κοκκίνης Βασίλειος, Κολέτσος Ιωάννης",
+              "id": "122075205"
             }
           ]
         },
         {
           "title": "ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ",
-          "code": "CSE704",
+          "code": "CSE705 (Δε θα προσφερθεί το ακαδ. έτος 2025-26)",
           "professor": "kmarg",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Distributed-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI168/",
@@ -1259,118 +1280,8 @@
           ]
         },
         {
-          "title": "ΚΡΥΠΤΟΓΡΑΦΙΑ",
-          "code": "CSE705",
-          "professor": "spetrido",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Cryptography",
-          "url": "https://classroom.google.com/",
-          "review": "2zSc1VKhDihMrX5U8",
-          "introduction": "Με την ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>διακρίνουν την κλασσική από τη μοντέρνα κρυπτογραφία,</li><li>περιγράφουν τις αρχές λειτουργίας ενός κρυπτοσυστήματος,</li><li>προσδιορίζουν τους διαφορετικούς στόχους της κρυπτογραφίας, όπως εμπιστευτικότητα, ακεραιότητα, αυθεντικότητα και μη-απάρνηση,</li><li>αναγνωρίζουν και να εξηγούν τη διαφορά μεταξύ συμμετρικής και ασύμμετρης κρυπτογραφίας,</li><li>απαριθμούν διαφορετικά κρυπτοσυστήματα,</li><li>περιγράφουν βασικούς κρυπταλγορίθμους, όπως AES, Diffie-Hellman, RSA, Ελλειπτικές καμπύλες,</li><li>προσδιορίζουν τα υπολογιστικά προβλήματα στα οποία βασίζουν τη λειτουργία τους τα μοντέρνα κρυπτοσυστήματα,</li><li>εξετάζουν την ασφάλεια κρυπτοσυστημάτων,</li><li>περιγράφουν βασικές επιθέσεις,</li><li>προσομοιώνουν με προγραμματισμό τη λειτουργία βασικών κρυπτοσυστημάτων ή επιθέσεων, και</li><li>αξιοποιούν τη γνώση τους στην επίλυση πραγματικών προβλημάτων</li></ul>",
-          "recommended_books": [
-            {
-              "title": "ΤΕΧΝΙΚΕΣ ΚΡΥΠΤΟΓΡΑΦΙΑΣ & ΚΡΥΠΤΑΝΑΛΥΣΗΣ",
-              "author": "ΚΑΤΟΣ Β., ΣΤΕΦΑΝΙΔΗΣ Γ.",
-              "id": "1746"
-            },
-            {
-              "title": "Κρυπτογραφία",
-              "author": "Πουλάκης Δημήτριος Μ.",
-              "id": "11068"
-            }
-          ]
-        },
-        {
-          "title": "ΤΕΧΝΟΛΟΓΙΕΣ ΠΟΛΥΜΕΣΩΝ ΚΑΙ ΓΡΑΦΙΚΑ",
-          "code": "CSE706",
-          "professor": "kkokk",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI178/",
-          "review": "3xXxmUBizeqEyCqZ8",
-          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>να αναγνωρίζουν την βασική ορολογία που θα συναντάνε σε κείμενα και άρθρα σχετικά με το επιστημονικό πεδίο των Πολυμέσων</li><li>να γνωρίζουν την θεωρία (δημιουργία επεξεργασία) της Ψηφιακής Εικόνας</li><li>να γνωρίζουν την θεωρία (δημιουργία επεξεργασία) του Ψηφιακού Ήχου</li><li>να γνωρίζουν την θεωρία (δημιουργία επεξεργασία) του Ψηφιακού Βίντεο</li><li>να σχεδιάσουν αναπτύξουν εφαρμογές Πολυμέσων σύμφωνα με την θεωρία του μαθήματος χρησιμοποιώντας ανάλογο λογισμικό</li><li>να σχεδιάσουν αναπτύξουν πολυμεσικές εφαρμογές με HTML5</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Πολυμέσα Αναλυτικός Οδηγός, 8η Έκδοση",
-              "author": "Tay Vaughan",
-              "id": "22728229"
-            }
-          ]
-        },
-        {
-          "title": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
-          "code": "CSE707",
-          "professor": "eftprot",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Machine-Learning",
-          "url": "https://openeclass.uom.gr/courses/DAI209/",
-          "review": "nJqJZBtmZX65MgaN9",
-          "introduction": "Σκοπός του μαθήματος είναι να εισάγει τους φοιτητές στις βασικές έννοιες, τεχνικές και αλγορίθμους στο πεδίο της μηχανικής μάθησης. Για το σκοπό αυτό θα παρουσιαστούν τα βασικά στοιχεία και οι θεμελιώδης αρχές στον τομέα. Τα πεδία μελέτης αφορούν: α) προβλήματα ταξινόμησης, β) προβλήματα παλινδρόμησης, γ) συσταδοποίησης, δ) πιθανοτική συλλογιστική, ε) μετασχηματισμούς και διαχείριση δεδομένων και στ) λήψη αποφάσεων",
-          "recommended_books": [
-            {
-              "title": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
-              "author": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΔΙΑΜΑΝΤΑΡΑΣ, ΔΗΜΗΤΡΗΣ ΜΠΟΤΣΗΣ",
-              "id": "86198212"
-            },
-            {
-              "title": "ΑΝΑΓΝΩΡΙΣΗ ΠΡΟΤΥΠΩΝ ΚΑΙ ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
-              "author": "C.M. Bishop",
-              "id": "86053413"
-            },
-            {
-              "title": "ΕΙΣΑΓΩΓΗ ΣΤΗ ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
-              "author": "MIROSLAV KUBAT",
-              "id": "102074861"
-            }
-          ]
-        },
-        {
-          "title": "ΜΗΧΑΝΕΣ ΑΝΑΖΗΤΗΣΗΣ ΚΑΙ ΑΝΑΛΥΣΗ ΚΕΙΜΕΝΟΥ",
-          "code": "CSE708",
-          "professor": "gkoloniari",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Information-Retrieval-and-Search-Engines",
-          "url": "https://openeclass.uom.gr/courses/DAI148/",
-          "review": "Xz7b4G6uMkBeBjGf7",
-          "introduction": "Με την ολοκλήρωση του μαθήματος ο φοιτητής θα μπορεί:<ol style='list-style-type: lower-greek;'><li>να κατανοεί και να περιγράφει τους αλγορίθμους, τις μεθόδους και τις εφαρμογές που χρησιμοποιούνται τόσο στην ανάκτηση πληροφορίας όσο και στις μηχανές αναζήτησης στον παγκόσμιο ιστό,</li><li>να επιλέγει την κατάλληλη μέθοδο ή αλγόριθμο ανάλογα με τις απαιτήσεις της εφαρμογής ανάκτησης πληροφορίας και αναζήτησης που σχεδιάζει,</li><li>να αξιολογεί και να συγκρίνει εφαρμογές ανάκτησης πληροφορίας, και</li><li>να συνθέτει και να προσαρμόζει τους αλγορίθμους ανάκτησης πληροφορίας για να επιλύσει νέα προβλήματα.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΩΝ",
-              "author": "CHRISTOPHER D. MANNING, PRABHAKAR RAGHAVAN, HINRICH SCHUTZE",
-              "id": "12532681"
-            },
-            {
-              "title": "Ανάκτηση Πληροφορίας, 2η Έκδοση",
-              "author": "Baeza-Yates Ricardo, Ribeiro-Neto Berthier",
-              "id": "41954965"
-            },
-            {
-              "title": "Η ΜΕΘΟΔΟΣ PAGERANK ΤΗΣ GOOGLE ΚΑΙ ΑΛΛΑ ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΤΑΞΗΣ ΙΣΤΟΣΕΛΙΔΩΝ",
-              "author": "LANGVILLE AMY, MEYER CARL",
-              "id": "7753"
-            }
-          ]
-        },
-        {
-          "title": "ΣΧΕΔΙΑΣΗ ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΨΗΦΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
-          "code": "CSE709",
-          "professor": "kaskalis",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI206/",
-          "review": "BHJHuprKZNMZnSyU9",
-          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>Να αναγνωρίζουν τα βασικά δομικά στοιχεία της πλειονότητας των ενσωματωμένων ψηφιακών συστημάτων.</li><li>Να ακολουθούν τις βέλτιστες διαδικασίες παραγωγής τυπωμένων πλακετών και ολοκληρωμένων ψηφιακών προϊόντων.</li><li>Να αναλύουν και να σχεδιάζουν όλες τις φάσεις παραγωγής ενός ψηφιακού προϊόντος από την αρχική σύλληψη της ιδέας μέχρι τη λειτουργία του τελικού προϊόντος.</li><li>Να προγραμματίζουν σε γλώσσα C την αλληλεπίδραση μικροελεγκτών με αισθητήρες και ενεργοποιητές.</li><li>Να σχεδιάζουν και να ελέγχουν πλακέτες τυπωμένων κυκλωμάτων (PCB).</li><li>Να δημιουργούν πρωτότυπες υλοποιήσεις ψηφιακών συστημάτων με σκοπό την περαιτέρω παραγωγή τους.</li><li>Να σταθμίζουν αντικρουόμενους παράγοντες σχεδίασης και να λαμβάνουν τελικές αποφάσεις.</li><li>Να προϋπολογίζουν το κόστος παραγωγής ενσωματωμένων ψηφιακών συστημάτων.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Σχεδίαση και Προγραμματισμός Ψηφιακών Συστημάτων",
-              "author": "Κασκάλης Θεόδωρος",
-              "id": "133024756"
-            },
-            {
-              "title": "Προγραμματισμός του Μικροελεγκτή AVR ATMega328",
-              "author": "Καλοφωλιάς Δημήτριος",
-              "id": "68369856"
-            }
-          ]
-        },
-        {
           "title": "ΤΕΧΝΟΛΟΓΙΕΣ BLOCKCHAIN ΚΑΙ ΑΠΟΚΕΝΤΡΩΜΕΝΕΣ ΕΦΑΡΜΟΓΕΣ",
-          "code": "CSE710",
+          "code": "CSE706",
           "professor": ["mavridis", "pfoul", "mastoras"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Blockchain-Technologies-And-Decentralized-Applications",
           "url": "https://openeclass.uom.gr/courses/DAI211/",
@@ -1400,39 +1311,154 @@
           ]
         },
         {
-          "title": "ΕΦΑΡΜΟΣΜΕΝΗ ΑΡΙΘΜΗΤΙΚΗ ΑΝΑΛΥΣΗ",
-          "code": "CSE711 (Νέο Μάθημα)",
-          "professor": ["kgiannou", "halkidis"],
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI241/",
-          "review": "",
-          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>κατανοούν και να υπολογίζουν τα σφάλματα υπολογισμών και της συσσώρευσής του στις προσεγγιστικές λύσεις</li><li>κατανοούν και να εφαρμόζουν αριθμητικές/υπολογιστικές μεθόδους για την προσεγγιστική επίλυση προβλημάτων που προκύπτουν στην επιστήμη της Πληροφορικής</li><li>κατανοούν τις έννοιες της σύγκλισης ή μη των επαναληπτικών μεθόδων επίλυσης προβλημάτων</li><li>αναπτύσσουν λογισμικό για την αριθμητική επίλυση προβλημάτων της επιστήμης της Πληροφορικής</li></ul><strong>Περιεχόμενα μαθήματος:</strong><ul><li>Θεωρία σφαλμάτων και σφάλματα υπολογισμών</li><li>Αριθμητική επίλυση εξισώσεων (μέθοδοι διχοτόμησης, εσφαλμένης θέσης, σταθερού σημείου, Newton-Raphson, τέμνουσας, Steffensen, Muller)</li><li>Αριθμητική επίλυση γραμμικών συστημάτων με άμεσες (Gauss, Gauss-Jordan, Thomas, παραγοντοποίηση LU, παραγοντοποίηση Choleski) και επαναληπτικές (Jacobi, Gauss-Seidel) μεθόδους</li><li>Μέθοδοι παρεμβολής (Lagrange, Neville, διηρημένων διαφορών, κυβικής σφηνοειδής)</li><li>Προσέγγιση συναρτήσεων με μεθόδους παρεμβολής και ελαχίστων τετραγώνων (πίνακες διαφορών, τελεστές πεπερασμένων διαφορών, παρεμβολή Lagrange, παρεμβολή Newton, παρεμβολή Hermite, τετραγωνικές και κυβικές splines)</li><li>Αριθμητική παραγώγιση (Taylor) και ολοκλήρωση (τραπεζίου, Simpson)</li></ul>",
+          "title": "ΜΗΧΑΝΕΣ ΑΝΑΖΗΤΗΣΗΣ ΚΑΙ ΑΝΑΛΥΣΗ ΚΕΙΜΕΝΟΥ",
+          "code": "CSE707",
+          "professor": ["gevan", "gkoloniari"],
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Information-Retrieval-and-Search-Engines",
+          "url": "https://openeclass.uom.gr/courses/DAI148/",
+          "review": "Xz7b4G6uMkBeBjGf7",
+          "introduction": "Με την ολοκλήρωση του μαθήματος ο φοιτητής θα μπορεί:<ol style='list-style-type: lower-greek;'><li>να κατανοεί και να περιγράφει τους αλγορίθμους, τις μεθόδους και τις εφαρμογές που χρησιμοποιούνται τόσο στην ανάκτηση πληροφορίας όσο και στις μηχανές αναζήτησης στον παγκόσμιο ιστό,</li><li>να επιλέγει την κατάλληλη μέθοδο ή αλγόριθμο ανάλογα με τις απαιτήσεις της εφαρμογής ανάκτησης πληροφορίας και αναζήτησης που σχεδιάζει,</li><li>να αξιολογεί και να συγκρίνει εφαρμογές ανάκτησης πληροφορίας, και</li><li>να συνθέτει και να προσαρμόζει τους αλγορίθμους ανάκτησης πληροφορίας για να επιλύσει νέα προβλήματα.</li></ul>",
           "recommended_books": [
             {
-              "title": "Υπολογιστικά Μαθηματικά: Υπολογιστικές Μέθοδοι Αριθμητικής Ανάλυσης με χρήση Matlab",
-              "author": "Γραββάνης Γεώργιος",
-              "id": "33154039"
+              "title": "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΩΝ",
+              "author": "CHRISTOPHER D. MANNING, PRABHAKAR RAGHAVAN, HINRICH SCHUTZE",
+              "id": "12532681"
             },
             {
-              "title": "Αριθμητική Ανάλυση: Μια αλγοριθμική προσέγγιση",
-              "author": "Μισυρλής Νικόλαος",
-              "id": "112696081"
+              "title": "Ανάκτηση Πληροφορίας, 2η Έκδοση",
+              "author": "Baeza-Yates Ricardo, Ribeiro-Neto Berthier",
+              "id": "41954965"
             },
             {
-              "title": "Υπολογιστικά Μαθηματικά: Αριθμητικές μέθοδοι βελτιστοποίησης με υλοποίηση σε MATLAB (Octave) και Python",
-              "author": "Φαμέλης Θ. Ιωάννης",
-              "id": "102071614"
+              "title": "Η ΜΕΘΟΔΟΣ PAGERANK ΤΗΣ GOOGLE ΚΑΙ ΑΛΛΑ ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΤΑΞΗΣ ΙΣΤΟΣΕΛΙΔΩΝ",
+              "author": "LANGVILLE AMY, MEYER CARL",
+              "id": "7753"
+            }
+          ]
+        },
+        {
+          "title": "ΚΡΥΠΤΟΓΡΑΦΙΑ",
+          "code": "CSE708",
+          "professor": "spetrido",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Cryptography",
+          "url": "https://classroom.google.com/",
+          "review": "2zSc1VKhDihMrX5U8",
+          "introduction": "Με την ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>διακρίνουν την κλασσική από τη μοντέρνα κρυπτογραφία,</li><li>περιγράφουν τις αρχές λειτουργίας ενός κρυπτοσυστήματος,</li><li>προσδιορίζουν τους διαφορετικούς στόχους της κρυπτογραφίας, όπως εμπιστευτικότητα, ακεραιότητα, αυθεντικότητα και μη-απάρνηση,</li><li>αναγνωρίζουν και να εξηγούν τη διαφορά μεταξύ συμμετρικής και ασύμμετρης κρυπτογραφίας,</li><li>απαριθμούν διαφορετικά κρυπτοσυστήματα,</li><li>περιγράφουν βασικούς κρυπταλγορίθμους, όπως AES, Diffie-Hellman, RSA, Ελλειπτικές καμπύλες,</li><li>προσδιορίζουν τα υπολογιστικά προβλήματα στα οποία βασίζουν τη λειτουργία τους τα μοντέρνα κρυπτοσυστήματα,</li><li>εξετάζουν την ασφάλεια κρυπτοσυστημάτων,</li><li>περιγράφουν βασικές επιθέσεις,</li><li>προσομοιώνουν με προγραμματισμό τη λειτουργία βασικών κρυπτοσυστημάτων ή επιθέσεων, και</li><li>αξιοποιούν τη γνώση τους στην επίλυση πραγματικών προβλημάτων</li></ul>",
+          "recommended_books": [
+            {
+              "title": "ΤΕΧΝΙΚΕΣ ΚΡΥΠΤΟΓΡΑΦΙΑΣ & ΚΡΥΠΤΑΝΑΛΥΣΗΣ",
+              "author": "ΚΑΤΟΣ Β., ΣΤΕΦΑΝΙΔΗΣ Γ.",
+              "id": "1746"
             },
             {
-              "title": "Εισαγωγή στην αριθμητική ανάλυση",
-              "author": "Κοκκίνης Βασίλειος, Κολέτσος Ιωάννης",
-              "id": "122075205"
+              "title": "Κρυπτογραφία",
+              "author": "Πουλάκης Δημήτριος Μ.",
+              "id": "11068"
+            }
+          ]
+        },
+        {
+          "title": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+          "code": "CSE709",
+          "professor": "eftprot",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Machine-Learning",
+          "url": "https://openeclass.uom.gr/courses/DAI209/",
+          "review": "nJqJZBtmZX65MgaN9",
+          "introduction": "Σκοπός του μαθήματος είναι να εισάγει τους φοιτητές στις βασικές έννοιες, τεχνικές και αλγορίθμους στο πεδίο της μηχανικής μάθησης. Για το σκοπό αυτό θα παρουσιαστούν τα βασικά στοιχεία και οι θεμελιώδης αρχές στον τομέα. Τα πεδία μελέτης αφορούν: α) προβλήματα ταξινόμησης, β) προβλήματα παλινδρόμησης, γ) συσταδοποίησης, δ) πιθανοτική συλλογιστική, ε) μετασχηματισμούς και διαχείριση δεδομένων και στ) λήψη αποφάσεων",
+          "recommended_books": [
+            {
+              "title": "ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+              "author": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΔΙΑΜΑΝΤΑΡΑΣ, ΔΗΜΗΤΡΗΣ ΜΠΟΤΣΗΣ",
+              "id": "86198212"
+            },
+            {
+              "title": "ΑΝΑΓΝΩΡΙΣΗ ΠΡΟΤΥΠΩΝ ΚΑΙ ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+              "author": "C.M. Bishop",
+              "id": "86053413"
+            },
+            {
+              "title": "ΕΙΣΑΓΩΓΗ ΣΤΗ ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ",
+              "author": "MIROSLAV KUBAT",
+              "id": "102074861"
+            }
+          ]
+        },
+        {
+          "title": "ΣΧΕΔΙΑΣΗ ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΨΗΦΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+          "code": "CSE710",
+          "professor": "kaskalis",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI206/",
+          "review": "BHJHuprKZNMZnSyU9",
+          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>Να αναγνωρίζουν τα βασικά δομικά στοιχεία της πλειονότητας των ενσωματωμένων ψηφιακών συστημάτων.</li><li>Να ακολουθούν τις βέλτιστες διαδικασίες παραγωγής τυπωμένων πλακετών και ολοκληρωμένων ψηφιακών προϊόντων.</li><li>Να αναλύουν και να σχεδιάζουν όλες τις φάσεις παραγωγής ενός ψηφιακού προϊόντος από την αρχική σύλληψη της ιδέας μέχρι τη λειτουργία του τελικού προϊόντος.</li><li>Να προγραμματίζουν σε γλώσσα C την αλληλεπίδραση μικροελεγκτών με αισθητήρες και ενεργοποιητές.</li><li>Να σχεδιάζουν και να ελέγχουν πλακέτες τυπωμένων κυκλωμάτων (PCB).</li><li>Να δημιουργούν πρωτότυπες υλοποιήσεις ψηφιακών συστημάτων με σκοπό την περαιτέρω παραγωγή τους.</li><li>Να σταθμίζουν αντικρουόμενους παράγοντες σχεδίασης και να λαμβάνουν τελικές αποφάσεις.</li><li>Να προϋπολογίζουν το κόστος παραγωγής ενσωματωμένων ψηφιακών συστημάτων.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Σχεδίαση και Προγραμματισμός Ψηφιακών Συστημάτων",
+              "author": "Κασκάλης Θεόδωρος",
+              "id": "133024756"
+            },
+            {
+              "title": "Προγραμματισμός του Μικροελεγκτή AVR ATMega328",
+              "author": "Καλοφωλιάς Δημήτριος",
+              "id": "68369856"
+            }
+          ]
+        },
+        {
+          "title": "BIG DATA – ΑΝΑΛΥΣΗ ΔΕΔΟΜΕΝΩΝ ΜΕΓΑΛΟΥ ΟΓΚΟΥ",
+          "code": "CSE711",
+          "professor": "simv",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Big-Data-Mining",
+          "url": "https://openeclass.uom.gr/courses/DAI186/",
+          "review": "HfPXXiE2VE1W3VBe8",
+          "introduction": "Το μάθημα αφορά τη χρήση μεθόδων και λογισμικού για τη διαχείριση και ανάλυση δεδομένων μεγάλης κλίμακας, για τα οποία οι συμβατικές μέθοδοι αποθήκευσης και επεξεργασίας δεν επαρκούν. Το μάθημα θα διεξάγεται στην αίοθουσα και στο εργαστήριο και οι φοιτητές θα εξοικειωθούν με συστήματα όπως Hadoop MapReduce, Spark, τη γλώσσα Python και αλγορίθμους εξόρυξης δεδομένων μεγάλης κλίμακας.",
+          "recommended_books": [
+            {
+              "title": "Εξόρυξη από Μεγάλα Σύνολα Δεδομένων - 3η Έκδοση",
+              "author": "Anand Rajaraman, Jeffrey David Ullman, Jure Leskovec",
+              "id": "94700707"
+            },
+            {
+              "title": "Εισαγωγή στην εξόρυξη δεδομένων, 2η Έκδοση",
+              "author": "Tan Pang - Ning,Steinbach Michael,Kumar Vipin, Βερύκιος Βασίλειος (επιμέλεια)",
+              "id": "77107675"
+            },
+            {
+              "title": "Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό",
+              "author": "Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία",
+              "id": "31391"
+            },
+            {
+              "title": "ΕΞΟΡΥΞΗ ΔΕΔΟΜΕΝΩΝ",
+              "author": "C.AGGARWAL",
+              "id": "122075333"
+            }
+          ]
+        },
+        {
+          "title": "ΔΙΑΧΕΙΡΙΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΚΑΙ ΕΠΕΝΔΥΣΕΙΣ",
+          "code": "ISE701",
+          "professor": "dasilas",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/UNI175/",
+          "review": "Lx1k4ak4bTTFJS7M7",
+          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>Να κατανοούν τις βασικότερες χρηματοοικονομικές επενδύσεις και προϊόντα.</li><li>Να χρησιμοποιούν τα θεωρητικά και αναλυτικά εργαλεία για την Χρηματοοικονομική Ανάλυση συγκεκριμένων επενδυτικών και χρηματοοικονομικών προϊόντων.</li><li>Να εφαρμόζουν τεχνικές αριστοποίησης χαρτοφυλακίου.</li><li>Να αξιολογούν τις επιδόσεις χαρτοφυλάκιο αξιογράφων και αμοιβαίων κεφαλαίων</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Η κατανόηση των επενδύσεων",
+              "author": "Λαοπόδης Ν.",
+              "id": "122086848"
+            },
+            {
+              "title": "Ανάλυση Επενδύσεων και Διαχείριση Χαρτοφυλακίου",
+              "author": "Δ. Βασιλείου, Ν. Ηρειώτης",
+              "id": "77114973"
             }
           ]
         },
         {
           "title": "ΔΙΟΙΚΗΣΗ ΠΟΙΟΤΗΤΑΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ",
-          "code": "ISE701",
+          "code": "ISE702",
           "professor": "nikolai",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI196/",
@@ -1452,45 +1478,8 @@
           ]
         },
         {
-          "title": "ΔΙΟΙΚΗΣΗ ΤΕΧΝΟΛΟΓΙΚΗΣ ΑΛΛΑΓΗΣ",
-          "code": "ISE702",
-          "professor": "kitsios",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI136/",
-          "review": "1RqQgxdH775wazhM6",
-          "introduction": "Με την ολοκλήρωση του μαθήματος οι φοιτητές θα πρέπει να είναι σε θέση να μπορούν να:<ul><li>Κατανοήσουν τις προκλήσεις της διαχείρισης των αλλαγών</li><li>Διαχειρίζονται αποτελεσματικά τις τεχνολογικές αλλαγές</li><li>Κατανοήσουν τις θεμελιώδης ενέργειες διαχείρισης της αλλαγής</li><li>Αναπτύξουν πρακτική γνώση σχετικά με την εφαρμοσιμότητα διαφόρων προσεγγίσεων στο μάνατζμεντ αλλαγών</li><li>Εντοπίζουν και να καταγράφουν λάθη που συνήθως γίνονται και να προτείνουν τρόπους αποφυγής τους</li><li>Προσαρμόζονται σαν σημερινά και μελλοντικά σύγχρονα στελέχη στις αλλαγές</li><li>Προκαλούν αλλαγές στις επιχειρήσεις</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Οδηγός Καινοτομίας και Επιχειρηματικότητας-Από τη Θεωρία στην Πράξη",
-              "author": "Osterwalder Alex, Pigneur Yves, Etiemble Fred, Smith Alan, Bernarda Greg",
-              "id": "112690653"
-            },
-            {
-              "title": "Σύγχρονη Διοίκηση",
-              "author": "Jones Gareth R., George Jennifer M.",
-              "id": "86056091"
-            }
-          ]
-        },
-        {
-          "title": "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ",
-          "code": "ISE703 (Συνδιδασκαλία με το αντίστοιχο μάθημα της ΟΔΕ \"Διοίκηση Εφοδιαστικής Αλυσίδας\")",
-          "professor": "loukas",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/BA166/",
-          "review": "SHPuMeSun9dfRRhi9",
-          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>σχεδιάζουν, προγραμματίζουν και εκτελούν τις κύριες και υποστηρικτικές λειτουργίες της Διοίκησης Εφοδιαστικής Αλυσίδας (ΔΕΑ)</li><li>επιλέγουν και εφαρμόζουν τα κατάλληλα εργαλεία, μεθόδους και τεχνικές για την υποστήριξη αποφάσεων σε θέματα βέλτιστου σχεδιασμού και λειτουργίας της εφοδιαστικής αλυσίδας (π.χ. σχεδιασμός δικτύου, χωροθέτηση εγκαταστάσεων, πρόβλεψη ζήτησης, διαχείριση αποθεμάτων, δρομολόγηση οχημάτων)</li><li>επιλέγουν και εφαρμόζουν νέες τεχνολογίες, πληροφοριακά συστήματα και καινοτόμες πρακτικές στη λειτουργία της ΔΕΑ (π.χ. Supply Chain 4.0, Warehouse 4.0, Transport 4.0), με έμφαση στην οργάνωση και λειτουργία αποθηκευτικών χώρων, τη διαχείριση του στόλου των οχημάτων διανομής, καθώς και καινοτόμα μοντέλα πολυκαναλικής διανομής.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Διοίκηση Εφοδιαστικής Αλυσίδας, 7η Έκδοση",
-              "author": "Chopra Sunil, Κωνσταντίνος Ανδρουτσόπουλος, Μιχάλης Μαντάς (Επιστ. επιμέλεια)",
-              "id": "94645682"
-            }
-          ]
-        },
-        {
-          "title": "ΚΑΙΝΟΤΟΜΙΑ ΤΕΧΝΟΛΟΓΙΚΩΝ ΠΡΟΪΟΝΤΩΝ ΚΑΙ ΥΠΗΡΕΣΙΩΝ",
-          "code": "ISE704",
+          "title": "ΚΑΙΝΟΤΟΜΙΑ ΨΗΦΙΑΚΩΝ ΠΡΟΪΟΝΤΩΝ ΚΑΙ ΥΠΗΡΕΣΙΩΝ",
+          "code": "ISE703 (Μετονομασία από ΚΑΙΝΟΤΟΜΙΑ ΤΕΧΝΟΛΟΓΙΚΩΝ ΠΡΟΪΟΝΤΩΝ ΚΑΙ ΥΠΗΡΕΣΙΩΝ)",
           "professor": "kitsios",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI203/",
@@ -1503,6 +1492,15 @@
               "id": "112690482"
             }
           ]
+        },
+        {
+          "title": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΑΚΥΒΕΡΝΗΣΗ",
+          "code": "ISE704",
+          "professor": "tambouris",
+          "github": "",
+          "url": "https://classroom.google.com/",
+          "review": "ut2L84nJfncPAr3U8",
+          "introduction": "Η δομή οργάνωσης του μαθήματος περιλαμβάνει τις ακόλουθες κύριες θεματικές ενότητες:<ul><li>Εισαγωγή στα Ηλεκτρονική Διακυβέρνηση<li>Ανοικτά Κυβερνητικά Δεδομένα<li>Συνδεδεμένα Ανοικτά Δεδομένα (RDF, SPARQL)<li>Αξιοποίηση ΑΡΙ δημοσίων φορέων<li>Παροχή Δημοσίων Πληροφοριών και Υπηρεσιών<li>Ηλεκτρονική Διακυβέρνησης μιας Στάσης<li>Διασυνδεσιμότητα<li>Ηλεκτρονική Συμμετοχή</li></ul>"
         },
         {
           "title": "ΨΗΦΙΑΚΑ ΝΟΜΙΣΜΑΤΑ",
@@ -1542,23 +1540,28 @@
           ]
         },
         {
-          "title": "ΔΙΑΧΕΙΡΙΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΚΑΙ ΕΠΕΝΔΥΣΕΙΣ",
+          "title": "ΑΝΑΚΑΛΥΨΗ ΓΝΩΣΗΣ ΣΕ ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "ISE707",
-          "professor": "dasilas",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/UNI175/",
-          "review": "Lx1k4ak4bTTFJS7M7",
-          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>Να κατανοούν τις βασικότερες χρηματοοικονομικές επενδύσεις και προϊόντα.</li><li>Να χρησιμοποιούν τα θεωρητικά και αναλυτικά εργαλεία για την Χρηματοοικονομική Ανάλυση συγκεκριμένων επενδυτικών και χρηματοοικονομικών προϊόντων.</li><li>Να εφαρμόζουν τεχνικές αριστοποίησης χαρτοφυλακίου.</li><li>Να αξιολογούν τις επιδόσεις χαρτοφυλάκιο αξιογράφων και αμοιβαίων κεφαλαίων</li></ul>",
+          "professor": ["gevan", "gkoloniari"],
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Knowledge-Discovery-from-Databases",
+          "url": "https://openeclass.uom.gr/courses/DAI218/",
+          "review": "cbZRybvBMMzP19KY9",
+          "introduction": "Με την ολοκλήρωση του μαθήματος ο φοιτητής θα μπορεί:<ol style='list-style-type: lower-greek;'><li>να κατανοεί την έννοια της ανακάλυψης γνώσης από βάσεις δεδομένων (knowledge discovery from databases),</li><li>να κατανοεί την αξία της διερευνητικής ανάλυσης και οπτικοποίησης των δεδομένων ως στάδιο προεπεξεργασίας,</li><li>να κατανοεί και να εφαρμόζει τεχνικές απομείωσης των δεδομένων,</li><li>να κατανοεί και να εφαρμόζει τεχνικές εξόρυξης γνώσης από δεδομένα όπως κατηγοριοποίηση (classification), συσταδοποίηση (clustering), κανόνες συσχέτισης (association rules) με τη χρήση διαδεδομένων εργαλείων (π.χ., WEKA, R, Python),</li><li>να κατανοεί και να εφαρμόζει τεχνικές εξόρυξης γνώσης στον παγκόσμιο ιστό.</li><ol>",
           "recommended_books": [
             {
-              "title": "Η κατανόηση των επενδύσεων",
-              "author": "Λαοπόδης Ν.",
-              "id": "122086848"
+              "title": "Εισαγωγή στην εξόρυξη δεδομένων, 2η Έκδοση",
+              "author": "Tan Pang - Ning,Steinbach Michael,Kumar Vipin, Βερύκιος Βασίλειος (επιμέλεια)",
+              "id": "77107675"
             },
             {
-              "title": "Ανάλυση Επενδύσεων και Διαχείριση Χαρτοφυλακίου",
-              "author": "Δ. Βασιλείου, Ν. Ηρειώτης",
-              "id": "77114973"
+              "title": "Εξόρυξη από Μεγάλα Σύνολα Δεδομένων - 3η Έκδοση",
+              "author": "Anand Rajaraman, Jeffrey David Ullman, Jure Leskovec",
+              "id": "94700707"
+            },
+            {
+              "title": "ΕΞΟΡΥΞΗ ΚΑΙ ΑΝΑΛΥΣΗ ΔΕΔΟΜΕΝΩΝ: ΒΑΣΙΚΕΣ ΕΝΝΟΙΕΣ ΚΑΙ ΑΛΓΟΡΙΘΜΟΙ",
+              "author": "MOHAMMED J. ZAKI, WAGNER MEIRA JR.",
+              "id": "68386089"
             }
           ]
         },
@@ -1584,39 +1587,41 @@
           ]
         },
         {
-          "title": "ΑΝΑΚΑΛΥΨΗ ΓΝΩΣΗΣ ΣΕ ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
+          "title": "ΤΕΧΝΟΛΟΓΙΕΣ ΠΟΛΥΜΕΣΩΝ ΚΑΙ ΓΡΑΦΙΚΑ",
           "code": "ISE709",
-          "professor": "gkoloniari",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Knowledge-Discovery-from-Databases",
-          "url": "https://openeclass.uom.gr/courses/DAI218/",
-          "review": "cbZRybvBMMzP19KY9",
-          "introduction": "Με την ολοκλήρωση του μαθήματος ο φοιτητής θα μπορεί:<ol style='list-style-type: lower-greek;'><li>να κατανοεί την έννοια της ανακάλυψης γνώσης από βάσεις δεδομένων (knowledge discovery from databases),</li><li>να κατανοεί την αξία της διερευνητικής ανάλυσης και οπτικοποίησης των δεδομένων ως στάδιο προεπεξεργασίας,</li><li>να κατανοεί και να εφαρμόζει τεχνικές απομείωσης των δεδομένων,</li><li>να κατανοεί και να εφαρμόζει τεχνικές εξόρυξης γνώσης από δεδομένα όπως κατηγοριοποίηση (classification), συσταδοποίηση (clustering), κανόνες συσχέτισης (association rules) με τη χρήση διαδεδομένων εργαλείων (π.χ., WEKA, R, Python),</li><li>να κατανοεί και να εφαρμόζει τεχνικές εξόρυξης γνώσης στον παγκόσμιο ιστό.</li><ol>",
+          "professor": "partarakis",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI178/",
+          "review": "3xXxmUBizeqEyCqZ8",
+          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>να αναγνωρίζουν την βασική ορολογία που θα συναντάνε σε κείμενα και άρθρα σχετικά με το επιστημονικό πεδίο των Πολυμέσων</li><li>να γνωρίζουν την θεωρία (δημιουργία επεξεργασία) της Ψηφιακής Εικόνας</li><li>να γνωρίζουν την θεωρία (δημιουργία επεξεργασία) του Ψηφιακού Ήχου</li><li>να γνωρίζουν την θεωρία (δημιουργία επεξεργασία) του Ψηφιακού Βίντεο</li><li>να σχεδιάσουν αναπτύξουν εφαρμογές Πολυμέσων σύμφωνα με την θεωρία του μαθήματος χρησιμοποιώντας ανάλογο λογισμικό</li><li>να σχεδιάσουν αναπτύξουν πολυμεσικές εφαρμογές με HTML5</li></ul>",
           "recommended_books": [
             {
-              "title": "Εισαγωγή στην εξόρυξη δεδομένων, 2η Έκδοση",
-              "author": "Tan Pang - Ning,Steinbach Michael,Kumar Vipin, Βερύκιος Βασίλειος (επιμέλεια)",
-              "id": "77107675"
-            },
-            {
-              "title": "Εξόρυξη από Μεγάλα Σύνολα Δεδομένων - 3η Έκδοση",
-              "author": "Anand Rajaraman, Jeffrey David Ullman, Jure Leskovec",
-              "id": "94700707"
-            },
-            {
-              "title": "ΕΞΟΡΥΞΗ ΚΑΙ ΑΝΑΛΥΣΗ ΔΕΔΟΜΕΝΩΝ: ΒΑΣΙΚΕΣ ΕΝΝΟΙΕΣ ΚΑΙ ΑΛΓΟΡΙΘΜΟΙ",
-              "author": "MOHAMMED J. ZAKI, WAGNER MEIRA JR.",
-              "id": "68386089"
+              "title": "Πολυμέσα Αναλυτικός Οδηγός, 8η Έκδοση",
+              "author": "Tay Vaughan",
+              "id": "22728229"
             }
           ]
         },
         {
-          "title": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΑΚΥΒΕΡΝΗΣΗ",
-          "code": "ISE710",
-          "professor": "tambouris",
+          "title": "ΔΙΟΙΚΗΣΗ ΨΗΦΙΑΚΗΣ ΑΛΛΑΓΗΣ & ΗΓΕΣΙΑ",
+          "code": "ISE710 (Μετονομασία από ΔΙΟΙΚΗΣΗ ΤΕΧΝΟΛΟΓΙΚΗΣ ΑΛΛΑΓΗΣ)",
+          "professor": "kitsios",
           "github": "",
-          "url": "https://classroom.google.com/",
-          "review": "ut2L84nJfncPAr3U8",
-          "introduction": "Η δομή οργάνωσης του μαθήματος περιλαμβάνει τις ακόλουθες κύριες θεματικές ενότητες:<ul><li>Εισαγωγή στα Ηλεκτρονική Διακυβέρνηση<li>Ανοικτά Κυβερνητικά Δεδομένα<li>Συνδεδεμένα Ανοικτά Δεδομένα (RDF, SPARQL)<li>Αξιοποίηση ΑΡΙ δημοσίων φορέων<li>Παροχή Δημοσίων Πληροφοριών και Υπηρεσιών<li>Ηλεκτρονική Διακυβέρνησης μιας Στάσης<li>Διασυνδεσιμότητα<li>Ηλεκτρονική Συμμετοχή</li></ul>"
+          "url": "https://openeclass.uom.gr/courses/DAI136/",
+          "review": "1RqQgxdH775wazhM6",
+          "introduction": "Με την ολοκλήρωση του μαθήματος οι φοιτητές θα πρέπει να είναι σε θέση να μπορούν να:<ul><li>Κατανοήσουν τις προκλήσεις της διαχείρισης των αλλαγών</li><li>Διαχειρίζονται αποτελεσματικά τις τεχνολογικές αλλαγές</li><li>Κατανοήσουν τις θεμελιώδης ενέργειες διαχείρισης της αλλαγής</li><li>Αναπτύξουν πρακτική γνώση σχετικά με την εφαρμοσιμότητα διαφόρων προσεγγίσεων στο μάνατζμεντ αλλαγών</li><li>Εντοπίζουν και να καταγράφουν λάθη που συνήθως γίνονται και να προτείνουν τρόπους αποφυγής τους</li><li>Προσαρμόζονται σαν σημερινά και μελλοντικά σύγχρονα στελέχη στις αλλαγές</li><li>Προκαλούν αλλαγές στις επιχειρήσεις</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Οδηγός Καινοτομίας και Επιχειρηματικότητας-Από τη Θεωρία στην Πράξη",
+              "author": "Osterwalder Alex, Pigneur Yves, Etiemble Fred, Smith Alan, Bernarda Greg",
+              "id": "112690653"
+            },
+            {
+              "title": "Σύγχρονη Διοίκηση",
+              "author": "Jones Gareth R., George Jennifer M.",
+              "id": "86056091"
+            }
+          ]
         },
         {
           "title": "ΠΛΗΡΟΦΟΡΙΚΗ ΚΑΙ ΒΙΩΣΙΜΗ ΑΝΑΠΤΥΞΗ",
@@ -1637,7 +1642,7 @@
         {
           "title": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ ΦΟΙΤΗΤΩΝ",
           "code": "AIE096",
-          "professor": "nikolai",
+          "professor": "",
           "github": "",
           "url": "",
           "review": "",
@@ -1702,71 +1707,8 @@
           ]
         },
         {
-          "title": "ΛΟΓΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
-          "code": "CSE803",
-          "professor": "iliass",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Logic-Programming",
-          "url": "https://openeclass.uom.gr/courses/DAI162/",
-          "review": "zyS4Ps9RhZRj1qT16",
-          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος ο φοιτητής θα είναι ικανός:<ul><li>να εξηγεί την διαφορετική προσέγγιση του δηλωτικού προγραμματισμού στην υλοποίηση αλγορίθμων, καθώς και τα πλεονεκτήματα και τα μειονεκτήματα του Λογικού προγραμματισμού σε σχέση με τον προστακτικό,</li><li>να διακρίνει ποια είδη εφαρμογών ή μέρη μεγαλύτερων εφαρμογών μπορούν να αναπτυχθούν σε σημαντικά μικρότερο χρόνο με την χρήση δηλωτικού προγραμματισμού,</li><li>να περιγράφει και να μπορεί να εφαρμόσει διαδικασίες όπως η ενοποίηση όρων, καθώς και την χρήση των κατηγορημάτων ανώτερης τάξης,</li><li>να σχεδιάσει και να υλοποιεί προγράμματα Λογικού Προγραμματισμού, εκμεταλλευόμενος τον μηχανισμό εκτέλεσης της γλώσσας, την διαδικασία ενοποίησης και ειδικότερα τεχνικές όπως αναδρομή και αφαίρεση διαδικασιών,</li><li>να εξηγεί την έννοια της μεταβλητής περιορισμών, του πεδίου της και των περιορισμών ως λογικών σχέσεων που εκφράζουν μερική πληροφορία για ένα πρόβλημα,</li><li>να μοντελοποιεί προβλήματα ως προβλήματα περιορισμών και να αναπτύσσει τις αντίστοιχες υλοποιήσεις τους σε ένα ισχυρό σύστημα CLP.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Prolog: Προγραμματισμός σε Λογική για Τεχνητή Νοημοσύνη - 2η έκδοση",
-              "author": "Μανόλης Μαρακάκης",
-              "id": "86200975"
-            },
-            {
-              "title": "ΠΡΟΓΡΑΜΜΑΤΙΖΟΝΤΑΣ ΣΤΗ ΛΟΓΙΚΗ - PROLOG",
-              "author": "ΝΟΤΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ",
-              "id": "5417"
-            }
-          ]
-        },
-        {
-          "title": "ΥΠΟΛΟΓΙΣΜΟΣ ΥΨΗΛΩΝ ΕΠΙΔΟΣΕΩΝ",
-          "code": "CSE805",
-          "professor": "kmarg",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/High-Performance-Computing",
-          "url": "https://openeclass.uom.gr/courses/DAI194/",
-          "review": "c4GGdkiRqCGnYadF7",
-          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>να διακρίνει τις βασικές κατηγορίες υπολογιστικών συστημάτων υψηλών επιδόσεων και να τις συσχετίσει με κύριες ομάδες εφαρμογών.</li><li>να εξηγήσει τις κύριες προκλήσεις των διαφόρων υπολογιστικών συστημάτων για την επίτευξη υψηλών επιδόσεων, στο επίπεδο των επεξεργαστών και επιταχυντών γραφικών, της ιεραρχίας μνήμης και διασυνδετικών δικτύων.</li><li>να εξηγήσει και να εφαρμόσει τις βασικές μετρικές επιδόσεων σε θεωρητικό και πειραματικό επίπεδο.</li><li>να εφαρμόσει μεθοδολογίες αλγοριθμικών και προγραμματιστικών προτύπων στην ανάπτυξη εφαρμογών για συστήματα υψηλών επιδόσεων.</li><li>να υλοποιήσει προγραμματιστικά βασικές οικογένειες αλγορίθμων, να εκσφαλματώσει και να μετρήσει πειραματικά τις επιδόσεις τος σε περιβάλλοντα μοιραζόμενης, κατανεμημένης μνήμης και επιταχυντών γραφικών.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "ΕΙΣΑΓΩΓΗ ΣΤΟΝ ΠΑΡΑΛΛΗΛΟ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟ",
-              "author": "PETER S. PACHECO",
-              "id": "50656351"
-            },
-            {
-              "title": "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΜΑΖΙΚΑ ΠΑΡΑΛΛΗΛΩΝ ΕΠΕΞΕΡΓΑΣΤΩΝ",
-              "author": "DAVID B. KIRK, WEN-MEI W. HWU",
-              "id": "12279261"
-            },
-            {
-              "title": "Εισαγωγή στον Επιστημονικό Προγραμματισμό",
-              "author": "Ματαράς Δημήτριος",
-              "id": "94688993"
-            }
-          ]
-        },
-        {
-          "title": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ ΚΑΙ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΨΗΦΙΑΚΩΝ ΚΥΚΛΩΜΑΤΩΝ",
-          "code": "CSE806 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
-          "professor": "sourstav",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Digital-Design-and-Digital-Circuits-Modeling",
-          "url": "https://openeclass.uom.gr/courses/DAI200/",
-          "review": "LzfVpTi59WgPu45h7",
-          "introduction": "Το μάθημα έχει σαν βασικό στόχο την εξοικείωση του φοιτητή με τα Ψηφιακά Συστήματα και τον τρόπο μοντελοποίησης και προσομοίωσής τους, έτσι ώστε να ελεγχθεί η ορθότητα της λειτουργίας τους. Μετά την ολοκλήρωση του μαθήματος οι φοιτητές θα είναι σε θέση να:<ul><li>προσδιορίζουν τα συστατικά μέρη ενός ψηφιακού συστήματος,</li><li>γνωρίζουν τη δομή των βασικών συνδυαστικών και ακολουθιακών κυκλωμάτων</li><li>γνωρίζουν τη δομή των ολοκληρωμένων κυκλωμάτων FPGA</li><li>προγραμματίζουν σε γλώσσα VHDL τα βασικά συστατικά ενός ψηφιακού συστήματος</li><li>συνδέουν με τεχνικές προγραμματισμού τα διάφορα επιμέρους τμήματα υλικού κατασκευάζοντας μεγαλύτερες μονάδες</li><li>προσομοιώνουν τη λειτουργία των ψηφιακών συστημάτων και να ερμηνεύουν τα αποτελέσματα</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Ψηφιακά Συστήματα",
-              "author": "Σουραβλάς Σταύρος Ι., Ρουμελιώτης Μάνος",
-              "id": "18548869"
-            }
-          ]
-        },
-        {
           "title": "ΝΕΥΡΩΝΙΚΑ ΔΙΚΤΥΑ",
-          "code": "CSE807",
+          "code": "CSE803",
           "professor": "eftprot",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI214/",
@@ -1786,134 +1728,40 @@
           ]
         },
         {
-          "title": "ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ ΚΑΙ ΔΙΑΔΙΚΤΥΑΚΩΝ ΕΦΑΡΜΟΓΩΝ",
-          "code": "CSE808",
-          "professor": "mavridis",
+          "title": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ ΚΑΙ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΨΗΦΙΑΚΩΝ ΚΥΚΛΩΜΑΤΩΝ",
+          "code": "CSE805",
+          "professor": "sourstav",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Digital-Design-and-Digital-Circuits-Modeling",
+          "url": "https://openeclass.uom.gr/courses/DAI200/",
+          "review": "LzfVpTi59WgPu45h7",
+          "introduction": "Το μάθημα έχει σαν βασικό στόχο την εξοικείωση του φοιτητή με τα Ψηφιακά Συστήματα και τον τρόπο μοντελοποίησης και προσομοίωσής τους, έτσι ώστε να ελεγχθεί η ορθότητα της λειτουργίας τους. Μετά την ολοκλήρωση του μαθήματος οι φοιτητές θα είναι σε θέση να:<ul><li>προσδιορίζουν τα συστατικά μέρη ενός ψηφιακού συστήματος,</li><li>γνωρίζουν τη δομή των βασικών συνδυαστικών και ακολουθιακών κυκλωμάτων</li><li>γνωρίζουν τη δομή των ολοκληρωμένων κυκλωμάτων FPGA</li><li>προγραμματίζουν σε γλώσσα VHDL τα βασικά συστατικά ενός ψηφιακού συστήματος</li><li>συνδέουν με τεχνικές προγραμματισμού τα διάφορα επιμέρους τμήματα υλικού κατασκευάζοντας μεγαλύτερες μονάδες</li><li>προσομοιώνουν τη λειτουργία των ψηφιακών συστημάτων και να ερμηνεύουν τα αποτελέσματα</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Ψηφιακά Συστήματα",
+              "author": "Σουραβλάς Σταύρος Ι., Ρουμελιώτης Μάνος",
+              "id": "18548869"
+            }
+          ]
+        },
+        {
+          "title": "ΑΝΑΠΤΥΞΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ ΥΠΟΛΟΓΙΣΤΩΝ",
+          "code": "CSE806",
+          "professor": "pfoul",
           "github": "",
-          "url": "https://classroom.google.com/",
-          "review": "gDNq78LyCBHDs67V8",
-          "introduction": "Ο φοιτητής θα μπορεί:<ul><li>να εξοικειωθεί με τις απαιτήσεις προστασίας των σύγχρονων συστημάτων πληροφορικής και επικοινωνιών,</li><li>να μάθει τις βασικές τεχνικές ασφάλειας των πληροφοριών κατά την τηλεπεξεργασία και ηλεκτρονική μεταφορά τους στο διαδίκτυο με την αξιοποίηση της κρυπτολογίας,</li><li>να αποκτήσει εμπειρίες από την εφαρμογή των παραπάνω τεχνικών σε εργαστηριακές συνθήκες.</li></ul>",
+          "url": "https://openeclass.uom.gr/courses/DAI108/",
+          "review": "UR9Nbb3g3sGSEc186",
+          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>να γνωρίζουν περισσότερες λεπτομέρειες για τα βασικά πρωτόκολλα δικτύων υπολογιστών, καθώς και το Socket API σε πολλαπλές γλώσσες προγραμματισμού</li><li>να μάθουν πώς λειτουργεί ένας δρομολογητής, το NAT, καθώς και λεπτομέρειες σχετικά με δίκτυα VPN</li><li>να χρησιμοποιούν βασικά εργαλεία για σύλληψη και ανάλυση πακέτων δικτυακών ροών, χαρτογράφηση δικτύων υπολογιστών, αλλά και τρόπους χρήσεώς τους ως βασικό βοήθημα στην διάγνωση προβλημάτων σε ένα τυπικό δίκτυο υπολογιστών μέσα από παραδείγματα</li><li>να κατανοήσουν την έννοια της ποιότητος υπηρεσιών και πώς αυτή μετράται σύμφωνα με διεθνή πρότυπα</li><li>να χρησιμοποιούν βασικούς προσομοιωτές ώστε να αποτελέσουν σημαντικό εφόδιο για τον σχεδιασμό και ανάπτυξη δικτύων</li><li>να εφαρμόσουν συγκεκριμένες πρακτικές για τον σχεδιασμό, στελέχωση και διαχείριση ενός δικτύου υπολογιστών, καθώς και στοιχεία διαχείρισης καταστροφών</li></ul>",
           "recommended_books": [
             {
-              "title": "ΑΣΦΑΛΕΙΑ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
-              "author": "ΠΑΓΚΑΛΟΣ ΓΕΩΡΓΙΟΣ,ΜΑΥΡΙΔΗΣ Ι.",
-              "id": "5425"
-            },
-            {
-              "title": "Ασφάλεια Δικτύων Υπολογιστών",
-              "author": "Γκρίτζαλης Στέφανος,Γκρίτζαλης Δημήτρης Α.,Κάτσικας Σωκράτης",
-              "id": "9675"
+              "title": "ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ, Μια Πρακτική Προσέγγιση",
+              "author": "ΦΟΥΛΗΡΑΣ ΠΑΝΑΓΙΩΤΗΣ",
+              "id": "1834"
             }
           ]
         },
-        {
-          "title": "ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΚΑΙ ΛΗΨΗ ΑΠΟΦΑΣΕΩΝ",
-          "code": "CSE809",
-          "professor": "dcv",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI185/",
-          "review": "aBCFg52F1hxCEoLM6",
-          "introduction": "Οι φοιτητές που ολοκληρώνουν με επιτυχία το μάθημα:<ul><li>Θα διαθέτουν προχωρημένες γνώσεις στην επιστημονική περιοχή της βελτιστοποίησης, της μαθηματικής μοντελοποίησης και της λήψης αποφάσεων, οι οποίες συνεπάγονται κριτική κατανόηση της αντίστοιχης θεωρίας και ευχέρεια χρήσης αντίστοιχων «εργαλείων» από τα εφαρμοσμένα μαθηματικά.</li><li>Θα κατέχουν εξειδικευμένες δεξιότητες επίλυσης προβλημάτων λήψης αποφάσεων και βελτιστοποίησης, τις οποίες θα είναι σε θέση να χρησιμοποιήσουν στην εργασία τους ή στην έρευνα σε σχετικό αντικείμενο.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Εφαρμοσμένος μαθηματικός προγραμματισμός",
-              "author": "Βασιλείου Παναγιώτης - Χρήστος",
-              "id": "11031"
-            },
-            {
-              "title": "Επιχειρησιακή Έρευνα και Βελτιστοποίηση για Μηχανικούς",
-              "author": "Καρλαύτης Μ., Λαγαρός Ν.",
-              "id": "35475"
-            }
-          ]
-        },
-        {
-          "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
-          "code": "CSE810",
-          "professor": "pilavaki",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/UNI383/",
-          "review": "TRFqtHE4SsggEC17A",
-          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές έχουν αποδεδειγμένη γνώση και κατανόηση θεμάτων στο πεδίο των νομικών κανόνων που διέπουν τη χρήση του διαδικτύου, νόμιμη και παράνομη, καθώς και των αρχών που οφείλει να τηρεί ο κάθε χρήστης, να διαμορφώνουν κρίσεις που περιλαμβάνουν προβληματισμό σε συναφή κοινωνικά, επιστημονικά ή ηθικά ζητήματα και συγκεκριμένα στον χώρο της προστασίας των προσωπικών δεδομένων στο διαδίκτυο και του απορρήτου των επικοινωνιών, των ιστολογίων και κοινωνικών δικτύων, των πνευματικών δικαιωμάτων και του εγκλήματος στον κυβερνοχώρο.",
-          "recommended_books": [
-            {
-              "title": "Ευρωπαικό δίκαιο του διαδικτύου",
-              "author": "Jougleux Philippe",
-              "id": "68400995"
-            },
-            {
-              "title": "Διαδίκτυο, Η/Υ & τηλεπικοινωνίες στο ελληνικό δίκαιο",
-              "author": "Ζέκος Γεώργιος Ι.",
-              "id": "77111397"
-            }
-          ]
-        },
-        {
-          "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΔΙΑΔΙΚΤΥΟΥ",
-          "code": "CSE811",
-          "professor": "nnikos",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI217/",
-          "review": "XpiGcySkVnFf3XQLA",
-          "introduction": "Με την επιτυχή περάτωση του μαθήματος ο φοιτητής θα είναι σε θέση:<ul><li>να περιγράφει τον τρόπο λειτουργίας των εφαρμογών στο διαδίκτυο</li><li>να εφαρμόζει τεχνικές ασύγχρονου προγραμματισμού</li><li>να υλοποιεί προγράμματα σε πολλαπλές γλώσσες προγραμματισμού (php, JS, jQuery, HTML, και CSS)</li><li>να υλοποιεί εφαρμογές στο διαδίκτυο με χρήση frameworks όπως REACT, Angular JS</li><li>να περιγράφει ειδικά θέματα προγραμματισμού διαδικτύου όπως τα πρότυπα σχεδίασης και η αντικειμενοστρέφεια, και να τα εφαρμόζει στη πράξη.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Η ΓΛΩΣΣΑ JAVASCRIPT",
-              "author": "ΓΙΩΡΓΟΣ ΛΙΑΚΕΑΣ",
-              "id": "102070465"
-            },
-            {
-              "title": "Ανάπτυξη Web Εφαρμογών με PHP και MySQL, 5η εκδ.",
-              "author": "Thomson Laura, Welling Luke",
-              "id": "68387584"
-            }
-          ]
-        },
-        {
-          "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ",
-          "code": "CSE812 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
-          "professor": "emamatas",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI212/",
-          "review": "QsY2EKcwMuVGBnFFA",
-          "introduction": "Με την ολοκλήρωση του μαθήματος, ο φοιτητής / η φοιτήτρια θα είναι σε θέση:<ul><li>Να κατανοήσει βασικές πλευρές τις αρχιτεκτονικής των δικτύων υπολογιστών και επικοινωνιών, μέσα από τη γνώση της αρχιτεκτονικής του Διαδικτύου και την ανάλυση των επιμέρους επιπέδων της τελευταίας.</li><li>Να κατανοήσει βασικά και ειδικά δικτυακά πρωτόκολλα μέσα από το πρίσμα του αντίκτυπου που έχουν στην απόδοση διαφορετικών εφαρμογών, αλλά και σε διαφορετικά δικτυακά περιβάλλοντα (π.χ. ασύρματα δίκτυα αισθητήρων).</li><li>Να κατανοήσει και να αξιολογήσει εναλλακτικές τεχνολογικές προτάσεις (π.χ. τα δίκτυα που ορίζονται μέσω λογισμικού σε σχέση με παραδοσιακά δίκτυα, το IPv6 σε σχέση με το IPv4 κ.α.) μέσα από την θεωρία και την εφαρμογή εργαστηριακών ασκήσεων.</li><li>Να εξοικοιωθεί με πλευρές της ερευνητικής μεθοδολογίας, μέσω κατάλληλων παραδειγμάτων συγκριτικής ανάλυσης της απόδοσης γνωστών πρωτοκόλλων δικτύων.</li><li>Να έρθει σε επαφή με νέες τεχνολογικές προτάσεις, όπως για τη νέα γενιά δικτύων επικοινωνιών, την υπολογιστική παρυφών (edge computing) και την ενορχήστρωση συστημάτων επικοινωνιών που αξιοποιούν το υπολογιστικό νέφος.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "ΕΡΓΑΣΤΗΡΙΑΚΑ ΜΑΘΗΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΚΑΙ ΔΙΑΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ",
-              "author": "ΒΑΣΙΛΕΙΟΣ ΤΣΑΟΥΣΙΔΗΣ, ΕΛΕΥΘΕΡΙΟΣ ΜΑΜΑΤΑΣ, ΙΩΑΝΝΗΣ ΨΑΡΡΑΣ, ΕΥΣΤΡΑΤΙΟΣ ΚΟΣΜΙΔΗΣ, ΣΤΥΛΙΑΝΟΣ ΔΗΜΗΤΡΙΟΥ",
-              "id": "21492"
-            },
-            {
-              "title": "ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ: ΜΙΑ ΠΡΟΣΕΓΓΙΣΗ ΑΠΟ ΤΗ ΣΚΟΠΙΑ ΤΩΝ ΣΥΣΤΗΜΑΤΩΝ",
-              "author": "LARRY L. PETERSON, BRUCE S. DAVIE",
-              "id": "122093784"
-            }
-          ]
-        },
-        {
-          "title": "ΚΙΝΗΤΗ ΚΑΙ ΔΙΑΧΥΤΗ ΥΠΟΛΟΓΙΣΤΙΚΗ",
-          "code": "CSE813",
-          "professor": "kpsannis",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Mobile-and-Wireless-Communications-Systems",
-          "url": "https://openeclass.uom.gr/courses/UNI307/",
-          "review": "3wuD2iHFVVykjGDP7",
-          "introduction": "Με την ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>προσδιορίζουν διαφορετικά είδη ασύρματης επικοινωνίας, όπως ασύρματα τοπικά δίκτυα, δίκτυα προσωπικής περιοχής, ασύρματα δίκτυα αισθητήρων και κινητά δίκτυα,</li><li>συγκρίνουν διαφορετικές τεχνολογίες ασύρματης επικοινωνίας,</li><li>αντιλαμβάνονται προκλήσεις που δημιουργούν οι σύγχρονες ανάγκες επικοινωνίας, όπως κινητικότητα χρηστών, ετερογένεια υλικού και λογισμικού,</li><li>περιγράφουν τεχνικές πρόσβασης στο μέσο,</li><li>αναγνωρίζουν εφαρμογές των τεχνολογιών δικτύωσης σε διάφορους τομείς, όπως περιβάλλον και υγεία,</li><li>αξιολογούν τα οφέλη και τις απώλειες των διαφορετικών τεχνολογιών, όπως καλύτερες επιδόσεις αλλά υψηλότερη κατανάλωση ενέργειας,</li><li>εντοπίζουν ζητήματα ασφάλειας που αναδύονται κατά την εφαρμογή των τεχνολογιών κινητής και διάχυτης υπολογιστικής,</li><li>συγκρίνουν ποιοτικά και ποσοτικά τις επιδόσεις μηχανισμών και πρωτοκόλλων, και</li><li>αναπτύσουν κριτική σκέψη μέσα από την προσομοίωση/εξομοίωση πρωτοκόλλων.</li></ul>",
-          "recommended_books": [
-            {
-              "title": "Μικροηλεκτρονική Ραδιοσυχνοτήτων",
-              "author": "Razavi B.",
-              "id": "133028109"
-            },
-            {
-              "title": "Θεωρία κυκλωμάτων και βασικά ηλεκτρονικά",
-              "author": "Rizzoni G., Kearns J., Χρηστίδης Χ.",
-              "id": "77112871"
-            }
-          ]
-        },
-        {
+         {
           "title": "ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ",
-          "code": "CSE814",
+          "code": "CSE807",
           "professor": "sifalera",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI114",
@@ -1938,71 +1786,161 @@
           ]
         },
         {
-          "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΑΝΑΛΥΤΙΚΗ",
-          "code": "ISE802",
-          "professor": "kvergidis",
+          "title": "ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΚΑΙ ΛΗΨΗ ΑΠΟΦΑΣΕΩΝ",
+          "code": "CSE808",
+          "professor": "yrefanid",
           "github": "",
-          "url": "https://classroom.google.com/",
-          "review": "wXraKS6aQeFS1iQP6",
-          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>οπτικοποιούν, αναλύουν και ερμηνεύουν δεδομένα με έμφαση σε δεδομένα μεγάλης κλίμακας</li><li>κατανοούν την πολυπλοκότητα και τις προκλήσεις στη συλλογή, ανάλυση και ερμηνεία σύνθετων ποσοτικών και ποιοτικών δεδομένων</li><li>επιλέγουν και εφαρμόζουν ποσοτικές μεθόδους/τεχνικές και εργαλεία/λογισμικό για την ανάλυση δεδομένων και την υποστήριξη της λήψης αποφάσεων σε σύνθετα επιχειρησιακά προβλήματα</li></ul>",
-          "recommended_books": ""
-        },
-        {
-          "title": "ΜΕΘΟΔΟΛΟΓΙΕΣ ΚΑΙ ΤΕΧΝΟΛΟΓΙΕΣ ΔΙΟΙΚΗΣΗΣ ΠΑΡΑΓΩΓΗΣ",
-          "code": "ISE803",
-          "professor": "nikolai",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI132/",
-          "review": "878VHNYWAFdQSeiZA",
-          "introduction": "Οι φοιτητές μετά την επιτυχή ολοκλήρωση του μαθήματος θα πρέπει να μπορούν<ul><li>να διακρίνουν τις βασικές έννοιες ενός συστήματος παραγωγής.</li><li>να περιγράφουν τις έννοιες του σχεδιασμού παραγωγικής διαδικασίας - χώρου παραγωγής - εργασίας παραγωγής .</li><li>να διακρίνουν το τρόπο λειτουργίας ενός συστήματος παραγωγής</li><li>να εκτιμούν και να αξιολογούν την απόδοση ενός συστήματος παραγωγής</li><li>να εκτιμούν τις ανάγκες ενός συστήματος παραγωγής</li><li>να σχεδιάζουν, να ελέγχουν και να εκτελούν λειτουργίες που αφορούν τον προγραμματισμό και τον έλεγχο μιας τυπικής παραγωγικής διαδικασίας</li><li>να σχεδιάζουν και να ελέγχουν διαδικασίες με σκοπό την μείωση του κόστους παραγωγής και την βελτίωση παραγωγικότητας ενός συστήματος παραγωγής.</li></ul>",
+          "url": "https://openeclass.uom.gr/courses/DAI185/",
+          "review": "aBCFg52F1hxCEoLM6",
+          "introduction": "Οι φοιτητές που ολοκληρώνουν με επιτυχία το μάθημα:<ul><li>Θα διαθέτουν προχωρημένες γνώσεις στην επιστημονική περιοχή της βελτιστοποίησης, της μαθηματικής μοντελοποίησης και της λήψης αποφάσεων, οι οποίες συνεπάγονται κριτική κατανόηση της αντίστοιχης θεωρίας και ευχέρεια χρήσης αντίστοιχων «εργαλείων» από τα εφαρμοσμένα μαθηματικά.</li><li>Θα κατέχουν εξειδικευμένες δεξιότητες επίλυσης προβλημάτων λήψης αποφάσεων και βελτιστοποίησης, τις οποίες θα είναι σε θέση να χρησιμοποιήσουν στην εργασία τους ή στην έρευνα σε σχετικό αντικείμενο.</li></ul>",
           "recommended_books": [
             {
-              "title": "Διοίκηση παραγωγικών συστημάτων",
-              "author": "Δημητριάδης Σωτήριος Γ., Μιχιώτης Αθανάσιος Ν.",
-              "id": "94644631"
+              "title": "Εφαρμοσμένος μαθηματικός προγραμματισμός",
+              "author": "Βασιλείου Παναγιώτης - Χρήστος",
+              "id": "11031"
             },
             {
-              "title": "Διοίκηση Παραγωγής Ο Σχεδιασμός Παραγωγικών Συστημάτων - Β΄ Έκδοση",
-              "author": "Παππής Κώστας Π.",
-              "id": "68402905"
+              "title": "Επιχειρησιακή Έρευνα και Βελτιστοποίηση για Μηχανικούς",
+              "author": "Καρλαύτης Μ., Λαγαρός Ν.",
+              "id": "35475"
             }
           ]
         },
         {
-          "title": "ΠΡΟΗΓΜΕΝΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ",
-          "code": "ISE806",
-          "professor": "tambouris",
+          "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
+          "code": "CSE809",
+          "professor": "simv",
           "github": "",
-          "url": "https://openeclass.uom.gr/courses/UNI135/",
-          "review": "9hq7xHBNc6hJg1x66",
-          "introduction": "Με την ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>Ανακαλούν τη λειτουργικότητα, τα πλεονεκτήματα και τα μειονεκτήματα ενός εύρους προηγμένων πληροφοριακών συστημάτων.</li><li>Χρησιμοποιούν στην πράξη τα πληροφοριακά αυτά συστήματα.</li></ul>",
-          "recommended_books": ""
-        },
-        {
-          "title": "ΕΝΟΠΟΙΗΜΕΝΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΚΑΙ ΕΦΑΡΜΟΓΕΣ",
-          "code": "ISE807",
-          "professor": "kpsannis",
-          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Unified-Communications-and-Applications",
-          "url": "https://openeclass.uom.gr/DAI125",
-          "review": "qP8BqWiCijWw1qYo8",
-          "introduction": "Με την επιτυχή περάτωση του μαθήματος ο φοιτητής θα είναι σε θέση:<ul><li>να διαχειρίζεται προγράμματα ενοποιημένων συστημάτων επικοινωνιών</li><li>να διακρίνει, να περιγράφει και να εφαρμόζει τις βασικές δομές δικτύων πρόσβασης νέας γενεάς</li><li>να αξιοποιεί συστήματα επικοινωνιών και δικτύων δεδομένων</li><li>να υλοποιεί σύγχρονες εφαρμογές συστημάτων επικοινωνιών : Διαδίκτυο των αντικειμένων, υπολογιστική νέφους και Μεγάλα Δεδομένα και Αναλυτική (Big Data Analytics)</li></ul>",
+          "url": "https://openeclass.uom.gr/courses/UNI383/",
+          "review": "TRFqtHE4SsggEC17A",
+          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές έχουν αποδεδειγμένη γνώση και κατανόηση θεμάτων στο πεδίο των νομικών κανόνων που διέπουν τη χρήση του διαδικτύου, νόμιμη και παράνομη, καθώς και των αρχών που οφείλει να τηρεί ο κάθε χρήστης, να διαμορφώνουν κρίσεις που περιλαμβάνουν προβληματισμό σε συναφή κοινωνικά, επιστημονικά ή ηθικά ζητήματα και συγκεκριμένα στον χώρο της προστασίας των προσωπικών δεδομένων στο διαδίκτυο και του απορρήτου των επικοινωνιών, των ιστολογίων και κοινωνικών δικτύων, των πνευματικών δικαιωμάτων και του εγκλήματος στον κυβερνοχώρο.",
           "recommended_books": [
             {
-              "title": "Ηλεκτρονικές Επικοινωνίες - Μια Προσέγγιση Συστήματος",
-              "author": "Beasley J.S.,Hymer J.D.,Miller G.M.",
-              "id": "133028081"
+              "title": "Ευρωπαικό δίκαιο του διαδικτύου",
+              "author": "Jougleux Philippe",
+              "id": "68400995"
             },
             {
-              "title": "Ψηφιακή Επεξεργασία Σήματος - Αρχές, Αλγόριθμοι και Εφαρμογές",
-              "author": "Proakis J.G., Manolakis D.",
-              "id": "133028104"
+              "title": "Διαδίκτυο, Η/Υ & τηλεπικοινωνίες στο ελληνικό δίκαιο",
+              "author": "Ζέκος Γεώργιος Ι.",
+              "id": "77111397"
+            }
+          ]
+        },
+        {
+          "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΔΙΑΔΙΚΤΥΟΥ",
+          "code": "CSE810",
+          "professor": "simv",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI217/",
+          "review": "XpiGcySkVnFf3XQLA",
+          "introduction": "Με την επιτυχή περάτωση του μαθήματος ο φοιτητής θα είναι σε θέση:<ul><li>να περιγράφει τον τρόπο λειτουργίας των εφαρμογών στο διαδίκτυο</li><li>να εφαρμόζει τεχνικές ασύγχρονου προγραμματισμού</li><li>να υλοποιεί προγράμματα σε πολλαπλές γλώσσες προγραμματισμού (php, JS, jQuery, HTML, και CSS)</li><li>να υλοποιεί εφαρμογές στο διαδίκτυο με χρήση frameworks όπως REACT, Angular JS</li><li>να περιγράφει ειδικά θέματα προγραμματισμού διαδικτύου όπως τα πρότυπα σχεδίασης και η αντικειμενοστρέφεια, και να τα εφαρμόζει στη πράξη.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Η ΓΛΩΣΣΑ JAVASCRIPT",
+              "author": "ΓΙΩΡΓΟΣ ΛΙΑΚΕΑΣ",
+              "id": "102070465"
+            },
+            {
+              "title": "Ανάπτυξη Web Εφαρμογών με PHP και MySQL, 5η εκδ.",
+              "author": "Thomson Laura, Welling Luke",
+              "id": "68387584"
+            }
+          ]
+        },
+        {
+          "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ",
+          "code": "CSE811",
+          "professor": "emamatas",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI212/",
+          "review": "QsY2EKcwMuVGBnFFA",
+          "introduction": "Με την ολοκλήρωση του μαθήματος, ο φοιτητής / η φοιτήτρια θα είναι σε θέση:<ul><li>Να κατανοήσει βασικές πλευρές τις αρχιτεκτονικής των δικτύων υπολογιστών και επικοινωνιών, μέσα από τη γνώση της αρχιτεκτονικής του Διαδικτύου και την ανάλυση των επιμέρους επιπέδων της τελευταίας.</li><li>Να κατανοήσει βασικά και ειδικά δικτυακά πρωτόκολλα μέσα από το πρίσμα του αντίκτυπου που έχουν στην απόδοση διαφορετικών εφαρμογών, αλλά και σε διαφορετικά δικτυακά περιβάλλοντα (π.χ. ασύρματα δίκτυα αισθητήρων).</li><li>Να κατανοήσει και να αξιολογήσει εναλλακτικές τεχνολογικές προτάσεις (π.χ. τα δίκτυα που ορίζονται μέσω λογισμικού σε σχέση με παραδοσιακά δίκτυα, το IPv6 σε σχέση με το IPv4 κ.α.) μέσα από την θεωρία και την εφαρμογή εργαστηριακών ασκήσεων.</li><li>Να εξοικοιωθεί με πλευρές της ερευνητικής μεθοδολογίας, μέσω κατάλληλων παραδειγμάτων συγκριτικής ανάλυσης της απόδοσης γνωστών πρωτοκόλλων δικτύων.</li><li>Να έρθει σε επαφή με νέες τεχνολογικές προτάσεις, όπως για τη νέα γενιά δικτύων επικοινωνιών, την υπολογιστική παρυφών (edge computing) και την ενορχήστρωση συστημάτων επικοινωνιών που αξιοποιούν το υπολογιστικό νέφος.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "ΕΡΓΑΣΤΗΡΙΑΚΑ ΜΑΘΗΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΚΑΙ ΔΙΑΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ",
+              "author": "ΒΑΣΙΛΕΙΟΣ ΤΣΑΟΥΣΙΔΗΣ, ΕΛΕΥΘΕΡΙΟΣ ΜΑΜΑΤΑΣ, ΙΩΑΝΝΗΣ ΨΑΡΡΑΣ, ΕΥΣΤΡΑΤΙΟΣ ΚΟΣΜΙΔΗΣ, ΣΤΥΛΙΑΝΟΣ ΔΗΜΗΤΡΙΟΥ",
+              "id": "21492"
+            },
+            {
+              "title": "ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ: ΜΙΑ ΠΡΟΣΕΓΓΙΣΗ ΑΠΟ ΤΗ ΣΚΟΠΙΑ ΤΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+              "author": "LARRY L. PETERSON, BRUCE S. DAVIE",
+              "id": "122093784"
+            }
+          ]
+        },
+        {
+          "title": "ΚΙΝΗΤΗ ΚΑΙ ΔΙΑΧΥΤΗ ΥΠΟΛΟΓΙΣΤΙΚΗ",
+          "code": "CSE812",
+          "professor": "kpsannis",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Mobile-and-Wireless-Communications-Systems",
+          "url": "https://openeclass.uom.gr/courses/UNI307/",
+          "review": "3wuD2iHFVVykjGDP7",
+          "introduction": "Με την ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>προσδιορίζουν διαφορετικά είδη ασύρματης επικοινωνίας, όπως ασύρματα τοπικά δίκτυα, δίκτυα προσωπικής περιοχής, ασύρματα δίκτυα αισθητήρων και κινητά δίκτυα,</li><li>συγκρίνουν διαφορετικές τεχνολογίες ασύρματης επικοινωνίας,</li><li>αντιλαμβάνονται προκλήσεις που δημιουργούν οι σύγχρονες ανάγκες επικοινωνίας, όπως κινητικότητα χρηστών, ετερογένεια υλικού και λογισμικού,</li><li>περιγράφουν τεχνικές πρόσβασης στο μέσο,</li><li>αναγνωρίζουν εφαρμογές των τεχνολογιών δικτύωσης σε διάφορους τομείς, όπως περιβάλλον και υγεία,</li><li>αξιολογούν τα οφέλη και τις απώλειες των διαφορετικών τεχνολογιών, όπως καλύτερες επιδόσεις αλλά υψηλότερη κατανάλωση ενέργειας,</li><li>εντοπίζουν ζητήματα ασφάλειας που αναδύονται κατά την εφαρμογή των τεχνολογιών κινητής και διάχυτης υπολογιστικής,</li><li>συγκρίνουν ποιοτικά και ποσοτικά τις επιδόσεις μηχανισμών και πρωτοκόλλων, και</li><li>αναπτύσουν κριτική σκέψη μέσα από την προσομοίωση/εξομοίωση πρωτοκόλλων.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Μικροηλεκτρονική Ραδιοσυχνοτήτων",
+              "author": "Razavi B.",
+              "id": "133028109"
+            },
+            {
+              "title": "Θεωρία κυκλωμάτων και βασικά ηλεκτρονικά",
+              "author": "Rizzoni G., Kearns J., Χρηστίδης Χ.",
+              "id": "77112871"
+            }
+          ]
+        },
+                {
+          "title": "ΛΟΓΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ",
+          "code": "CSE813",
+          "professor": "iliass",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Logic-Programming",
+          "url": "https://openeclass.uom.gr/courses/DAI162/",
+          "review": "zyS4Ps9RhZRj1qT16",
+          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος ο φοιτητής θα είναι ικανός:<ul><li>να εξηγεί την διαφορετική προσέγγιση του δηλωτικού προγραμματισμού στην υλοποίηση αλγορίθμων, καθώς και τα πλεονεκτήματα και τα μειονεκτήματα του Λογικού προγραμματισμού σε σχέση με τον προστακτικό,</li><li>να διακρίνει ποια είδη εφαρμογών ή μέρη μεγαλύτερων εφαρμογών μπορούν να αναπτυχθούν σε σημαντικά μικρότερο χρόνο με την χρήση δηλωτικού προγραμματισμού,</li><li>να περιγράφει και να μπορεί να εφαρμόσει διαδικασίες όπως η ενοποίηση όρων, καθώς και την χρήση των κατηγορημάτων ανώτερης τάξης,</li><li>να σχεδιάσει και να υλοποιεί προγράμματα Λογικού Προγραμματισμού, εκμεταλλευόμενος τον μηχανισμό εκτέλεσης της γλώσσας, την διαδικασία ενοποίησης και ειδικότερα τεχνικές όπως αναδρομή και αφαίρεση διαδικασιών,</li><li>να εξηγεί την έννοια της μεταβλητής περιορισμών, του πεδίου της και των περιορισμών ως λογικών σχέσεων που εκφράζουν μερική πληροφορία για ένα πρόβλημα,</li><li>να μοντελοποιεί προβλήματα ως προβλήματα περιορισμών και να αναπτύσσει τις αντίστοιχες υλοποιήσεις τους σε ένα ισχυρό σύστημα CLP.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Prolog: Προγραμματισμός σε Λογική για Τεχνητή Νοημοσύνη - 2η έκδοση",
+              "author": "Μανόλης Μαρακάκης",
+              "id": "86200975"
+            },
+            {
+              "title": "ΠΡΟΓΡΑΜΜΑΤΙΖΟΝΤΑΣ ΣΤΗ ΛΟΓΙΚΗ - PROLOG",
+              "author": "ΝΟΤΟΠΟΥΛΟΣ ΠΑΝΑΓΙΩΤΗΣ",
+              "id": "5417"
+            }
+          ]
+        },
+        {
+          "title": "ΥΠΟΛΟΓΙΣΜΟΣ ΥΨΗΛΩΝ ΕΠΙΔΟΣΕΩΝ",
+          "code": "CSE814 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
+          "professor": "kmarg",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/High-Performance-Computing",
+          "url": "https://openeclass.uom.gr/courses/DAI194/",
+          "review": "c4GGdkiRqCGnYadF7",
+          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>να διακρίνει τις βασικές κατηγορίες υπολογιστικών συστημάτων υψηλών επιδόσεων και να τις συσχετίσει με κύριες ομάδες εφαρμογών.</li><li>να εξηγήσει τις κύριες προκλήσεις των διαφόρων υπολογιστικών συστημάτων για την επίτευξη υψηλών επιδόσεων, στο επίπεδο των επεξεργαστών και επιταχυντών γραφικών, της ιεραρχίας μνήμης και διασυνδετικών δικτύων.</li><li>να εξηγήσει και να εφαρμόσει τις βασικές μετρικές επιδόσεων σε θεωρητικό και πειραματικό επίπεδο.</li><li>να εφαρμόσει μεθοδολογίες αλγοριθμικών και προγραμματιστικών προτύπων στην ανάπτυξη εφαρμογών για συστήματα υψηλών επιδόσεων.</li><li>να υλοποιήσει προγραμματιστικά βασικές οικογένειες αλγορίθμων, να εκσφαλματώσει και να μετρήσει πειραματικά τις επιδόσεις τος σε περιβάλλοντα μοιραζόμενης, κατανεμημένης μνήμης και επιταχυντών γραφικών.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "ΕΙΣΑΓΩΓΗ ΣΤΟΝ ΠΑΡΑΛΛΗΛΟ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟ",
+              "author": "PETER S. PACHECO",
+              "id": "50656351"
+            },
+            {
+              "title": "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΜΑΖΙΚΑ ΠΑΡΑΛΛΗΛΩΝ ΕΠΕΞΕΡΓΑΣΤΩΝ",
+              "author": "DAVID B. KIRK, WEN-MEI W. HWU",
+              "id": "12279261"
+            },
+            {
+              "title": "Εισαγωγή στον Επιστημονικό Προγραμματισμό",
+              "author": "Ματαράς Δημήτριος",
+              "id": "94688993"
             }
           ]
         },
         {
           "title": "ΗΘΙΚΗ ΚΑΙ ΔΙΑΚΥΒΕΡΝΗΣΗ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ",
-          "code": "ISE808 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
-          "professor": "",
+          "code": "ISE802",
+          "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI154/",
           "review": "sdmiRGVQ9zny2bsD6",
@@ -2021,8 +1959,44 @@
           ]
         },
         {
+          "title": "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ",
+          "code": "ISE803",
+          "professor": "mmadas",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI139/",
+          "review": "SHPuMeSun9dfRRhi9",
+          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>σχεδιάζουν, προγραμματίζουν και εκτελούν τις κύριες και υποστηρικτικές λειτουργίες της Διοίκησης Εφοδιαστικής Αλυσίδας (ΔΕΑ)</li><li>επιλέγουν και εφαρμόζουν τα κατάλληλα εργαλεία, μεθόδους και τεχνικές για την υποστήριξη αποφάσεων σε θέματα βέλτιστου σχεδιασμού και λειτουργίας της εφοδιαστικής αλυσίδας (π.χ. σχεδιασμός δικτύου, χωροθέτηση εγκαταστάσεων, πρόβλεψη ζήτησης, διαχείριση αποθεμάτων, δρομολόγηση οχημάτων)</li><li>επιλέγουν και εφαρμόζουν νέες τεχνολογίες, πληροφοριακά συστήματα και καινοτόμες πρακτικές στη λειτουργία της ΔΕΑ (π.χ. Supply Chain 4.0, Warehouse 4.0, Transport 4.0), με έμφαση στην οργάνωση και λειτουργία αποθηκευτικών χώρων, τη διαχείριση του στόλου των οχημάτων διανομής, καθώς και καινοτόμα μοντέλα πολυκαναλικής διανομής.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Διοίκηση Εφοδιαστικής Αλυσίδας, 7η Έκδοση",
+              "author": "Chopra Sunil, Κωνσταντίνος Ανδρουτσόπουλος, Μιχάλης Μαντάς (Επιστ. επιμέλεια)",
+              "id": "94645682"
+            }
+          ]
+        },
+        {
+          "title": "ΠΡΟΗΓΜΕΝΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ",
+          "code": "ISE806",
+          "professor": "tambouris",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/UNI135/",
+          "review": "9hq7xHBNc6hJg1x66",
+          "introduction": "Με την ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>Ανακαλούν τη λειτουργικότητα, τα πλεονεκτήματα και τα μειονεκτήματα ενός εύρους προηγμένων πληροφοριακών συστημάτων.</li><li>Χρησιμοποιούν στην πράξη τα πληροφοριακά αυτά συστήματα.</li></ul>",
+          "recommended_books": ""
+        },
+        {
+          "title": "ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΑΝΑΛΥΤΙΚΗ",
+          "code": "ISE807",
+          "professor": "kvergidis",
+          "github": "",
+          "url": "https://classroom.google.com/",
+          "review": "wXraKS6aQeFS1iQP6",
+          "introduction": "Με την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση να:<ul><li>οπτικοποιούν, αναλύουν και ερμηνεύουν δεδομένα με έμφαση σε δεδομένα μεγάλης κλίμακας</li><li>κατανοούν την πολυπλοκότητα και τις προκλήσεις στη συλλογή, ανάλυση και ερμηνεία σύνθετων ποσοτικών και ποιοτικών δεδομένων</li><li>επιλέγουν και εφαρμόζουν ποσοτικές μεθόδους/τεχνικές και εργαλεία/λογισμικό για την ανάλυση δεδομένων και την υποστήριξη της λήψης αποφάσεων σε σύνθετα επιχειρησιακά προβλήματα</li></ul>",
+          "recommended_books": ""
+        },
+        {
           "title": "ΘΕΩΡΙΑ ΠΑΙΓΝΙΩΝ",
-          "code": "ISE809",
+          "code": "ISE808",
           "professor": "yrefanid",
           "github": "",
           "url": "https://classroom.google.com/",
@@ -2043,8 +2017,8 @@
         },
         {
           "title": "ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ",
-          "code": "ISE810 (ΔΕΝ ΘΑ ΠΡΟΣΦΕΡΘΕΙ ΤΟ ΑΚΑΔ. ΕΤΟΣ 2024-25)",
-          "professor": "",
+          "code": "ISE809",
+          "professor": "simv",
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "4ZrfH5S7wsabE6gB9",
@@ -2058,9 +2032,51 @@
           ]
         },
         {
-          "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
+          "title": "ΜΕΘΟΔΟΛΟΓΙΕΣ ΚΑΙ ΤΕΧΝΟΛΟΓΙΕΣ ΔΙΟΙΚΗΣΗΣ ΠΑΡΑΓΩΓΗΣ",
+          "code": "ISE810",
+          "professor": "nikolai",
+          "github": "",
+          "url": "https://openeclass.uom.gr/courses/DAI132/",
+          "review": "878VHNYWAFdQSeiZA",
+          "introduction": "Οι φοιτητές μετά την επιτυχή ολοκλήρωση του μαθήματος θα πρέπει να μπορούν<ul><li>να διακρίνουν τις βασικές έννοιες ενός συστήματος παραγωγής.</li><li>να περιγράφουν τις έννοιες του σχεδιασμού παραγωγικής διαδικασίας - χώρου παραγωγής - εργασίας παραγωγής .</li><li>να διακρίνουν το τρόπο λειτουργίας ενός συστήματος παραγωγής</li><li>να εκτιμούν και να αξιολογούν την απόδοση ενός συστήματος παραγωγής</li><li>να εκτιμούν τις ανάγκες ενός συστήματος παραγωγής</li><li>να σχεδιάζουν, να ελέγχουν και να εκτελούν λειτουργίες που αφορούν τον προγραμματισμό και τον έλεγχο μιας τυπικής παραγωγικής διαδικασίας</li><li>να σχεδιάζουν και να ελέγχουν διαδικασίες με σκοπό την μείωση του κόστους παραγωγής και την βελτίωση παραγωγικότητας ενός συστήματος παραγωγής.</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Διοίκηση παραγωγικών συστημάτων",
+              "author": "Δημητριάδης Σωτήριος Γ., Μιχιώτης Αθανάσιος Ν.",
+              "id": "94644631"
+            },
+            {
+              "title": "Διοίκηση Παραγωγής Ο Σχεδιασμός Παραγωγικών Συστημάτων - Β΄ Έκδοση",
+              "author": "Παππής Κώστας Π.",
+              "id": "68402905"
+            }
+          ]
+        },
+        {
+          "title": "ΕΝΟΠΟΙΗΜΕΝΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΚΑΙ ΕΦΑΡΜΟΓΕΣ",
           "code": "ISE811",
-          "professor": "mmilossi",
+          "professor": "kpsannis",
+          "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Unified-Communications-and-Applications",
+          "url": "https://openeclass.uom.gr/DAI125",
+          "review": "qP8BqWiCijWw1qYo8",
+          "introduction": "Με την επιτυχή περάτωση του μαθήματος ο φοιτητής θα είναι σε θέση:<ul><li>να διαχειρίζεται προγράμματα ενοποιημένων συστημάτων επικοινωνιών</li><li>να διακρίνει, να περιγράφει και να εφαρμόζει τις βασικές δομές δικτύων πρόσβασης νέας γενεάς</li><li>να αξιοποιεί συστήματα επικοινωνιών και δικτύων δεδομένων</li><li>να υλοποιεί σύγχρονες εφαρμογές συστημάτων επικοινωνιών : Διαδίκτυο των αντικειμένων, υπολογιστική νέφους και Μεγάλα Δεδομένα και Αναλυτική (Big Data Analytics)</li></ul>",
+          "recommended_books": [
+            {
+              "title": "Ηλεκτρονικές Επικοινωνίες - Μια Προσέγγιση Συστήματος",
+              "author": "Beasley J.S.,Hymer J.D.,Miller G.M.",
+              "id": "133028081"
+            },
+            {
+              "title": "Ψηφιακή Επεξεργασία Σήματος - Αρχές, Αλγόριθμοι και Εφαρμογές",
+              "author": "Proakis J.G., Manolakis D.",
+              "id": "133028104"
+            }
+          ]
+        },
+        {
+          "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
+          "code": "ISE812",
+          "professor": "simv",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
           "review": "3F1dy9Ju4A676Fib7",
@@ -2068,25 +2084,9 @@
           "recommended_books": ""
         },
         {
-          "title": "ΑΝΑΠΤΥΞΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ ΥΠΟΛΟΓΙΣΤΩΝ",
-          "code": "ISE812",
-          "professor": "pfoul",
-          "github": "",
-          "url": "https://openeclass.uom.gr/courses/DAI108/",
-          "review": "UR9Nbb3g3sGSEc186",
-          "introduction": "Μετά την επιτυχή ολοκλήρωση του μαθήματος, οι φοιτητές θα είναι σε θέση:<ul><li>να γνωρίζουν περισσότερες λεπτομέρειες για τα βασικά πρωτόκολλα δικτύων υπολογιστών, καθώς και το Socket API σε πολλαπλές γλώσσες προγραμματισμού</li><li>να μάθουν πώς λειτουργεί ένας δρομολογητής, το NAT, καθώς και λεπτομέρειες σχετικά με δίκτυα VPN</li><li>να χρησιμοποιούν βασικά εργαλεία για σύλληψη και ανάλυση πακέτων δικτυακών ροών, χαρτογράφηση δικτύων υπολογιστών, αλλά και τρόπους χρήσεώς τους ως βασικό βοήθημα στην διάγνωση προβλημάτων σε ένα τυπικό δίκτυο υπολογιστών μέσα από παραδείγματα</li><li>να κατανοήσουν την έννοια της ποιότητος υπηρεσιών και πώς αυτή μετράται σύμφωνα με διεθνή πρότυπα</li><li>να χρησιμοποιούν βασικούς προσομοιωτές ώστε να αποτελέσουν σημαντικό εφόδιο για τον σχεδιασμό και ανάπτυξη δικτύων</li><li>να εφαρμόσουν συγκεκριμένες πρακτικές για τον σχεδιασμό, στελέχωση και διαχείριση ενός δικτύου υπολογιστών, καθώς και στοιχεία διαχείρισης καταστροφών</li></ul>",
-          "recommended_books": [
-            {
-              "title": "ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ, Μια Πρακτική Προσέγγιση",
-              "author": "ΦΟΥΛΗΡΑΣ ΠΑΝΑΓΙΩΤΗΣ",
-              "id": "1834"
-            }
-          ]
-        },
-        {
           "title": "ΠΡΑΚΤΙΚΗ ΑΣΚΗΣΗ ΦΟΙΤΗΤΩΝ",
           "code": "AIE096",
-          "professor": "nikolai",
+          "professor": "",
           "github": "",
           "url": "",
           "review": "",
