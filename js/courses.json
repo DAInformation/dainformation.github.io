@@ -224,7 +224,7 @@
         {
           "title": "ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ",
           "code": "AIC202",
-          "professor": ["gkoloniari", "kkokk"],
+          "professor": ["gkoloniari", "kkokk", "tsogkas"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester2/Databases",
           "url": "https://openeclass.uom.gr/courses/DAI104/",
           "review": "EiNNQg9GuxLazuey5",
@@ -447,7 +447,7 @@
               "title": "Λειτουργικά συστήματα",
               "author": "Silberschatz Abraham,Galvin Peter B. ,Gagne Greg",
               "id": "122081113"
-            },  
+            },
             {
               "title": "Linux",
               "author": "Μάργαρης Αθανάσιος",
@@ -531,7 +531,7 @@
         {
           "title": "ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ",
           "code": "ISC301",
-          "professor": "simv",
+          "professor": "ziakis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester3/Electronic-Business",
           "url": "https://openeclass.uom.gr/courses/DAI145/",
           "review": "ZT4ykR3VTJQu7HFJ9",
@@ -667,7 +667,7 @@
         {
           "title": "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ",
           "code": "CSC402",
-          "professor": "simv",
+          "professor": "dtsoukalas",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/Software-Technology",
           "url": "https://openeclass.uom.gr/courses/DAI127/",
           "review": "1vF8v41xcoqbCeLXA",
@@ -693,7 +693,7 @@
         {
           "title": "ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΗ ΣΥΣΤΗΜΑΤΩΝ",
           "code": "ISC401",
-          "professor": "tambouris",
+          "professor": ["tambouris", "r.promikyridis"],
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester4/System-Analysis-and-Design",
           "url": "https://openeclass.uom.gr/courses/DAI189/",
           "review": "Qpx2abUB2Nyn3KR86",
@@ -928,7 +928,7 @@
         {
           "title": "ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ",
           "code": "ISC503",
-          "professor": "simv",
+          "professor": "ziakis",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester5/Digital-Marketing",
           "url": "https://openeclass.uom.gr/courses/DAI149/",
           "review": "9SMV1Y84GusSV8fi9",
@@ -1230,7 +1230,7 @@
         },
         {
           "title": "ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ",
-          "code": "CSE704 (Δε θα προσφερθεί το ακαδ. έτος 2025-26)",
+          "code": "CSE704 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
           "professor": "kmarg",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester7/Distributed-Systems",
           "url": "https://openeclass.uom.gr/courses/DAI168/",
@@ -1708,7 +1708,7 @@
         },
         {
           "title": "ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ ΚΑΙ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΨΗΦΙΑΚΩΝ ΚΥΚΛΩΜΑΤΩΝ",
-          "code": "CSE806",
+          "code": "CSE806 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
           "professor": "sourstav",
           "github": "https://github.com/DAInformation/UoM-Applied-Informatics/tree/main/Semester8/Digital-Design-and-Digital-Circuits-Modeling",
           "url": "https://openeclass.uom.gr/courses/DAI200/",
@@ -1767,7 +1767,7 @@
         {
           "title": "ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ",
           "code": "CSE810",
-          "professor": "simv",
+          "professor": "pilavaki",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI383/",
           "review": "TRFqtHE4SsggEC17A",
@@ -1787,8 +1787,8 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΔΙΑΔΙΚΤΥΟΥ",
-          "code": "CSE811 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
-          "professor": "",
+          "code": "CSE811",
+          "professor": "nnikos",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI217/",
           "review": "XpiGcySkVnFf3XQLA",
@@ -1808,8 +1808,8 @@
         },
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ",
-          "code": "CSE812",
-          "professor": "emamatas",
+          "code": "CSE812 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
+          "professor": "",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI212/",
           "review": "QsY2EKcwMuVGBnFFA",
@@ -1938,8 +1938,8 @@
         },
         {
           "title": "ΗΘΙΚΗ ΚΑΙ ΔΙΑΚΥΒΕΡΝΗΣΗ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ",
-          "code": "ISE808 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
-          "professor": "",
+          "code": "ISE808",
+          "professor": "alexiadou",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/DAI154/",
           "review": "sdmiRGVQ9zny2bsD6",
@@ -1985,8 +1985,8 @@
         },
         {
           "title": "ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ",
-          "code": "ISE810 (Δεν θα προσφερθεί το ακαδ. έτος 2025-26)",
-          "professor": "",
+          "code": "ISE810",
+          "professor": "ziakis",
           "github": "",
           "url": "https://classroom.google.com/",
           "review": "4ZrfH5S7wsabE6gB9",
@@ -2002,7 +2002,7 @@
         {
           "title": "ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ",
           "code": "ISE811",
-          "professor": "simv",
+          "professor": "mmilossi",
           "github": "",
           "url": "https://openeclass.uom.gr/courses/UNI384/",
           "review": "3F1dy9Ju4A676Fib7",

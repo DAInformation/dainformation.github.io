@@ -234,7 +234,7 @@
     {
       "id": "ziakis",
       "name": "Ζιάκης Χρήστος",
-      "url": "http://iseb.uom.gr/users/christos-ziakis"
+      "url": "https://iseb.uom.gr/users/christos-ziakis"
     },
     {
       "id": "d.amanatidis",
@@ -243,28 +243,32 @@
     },
     {
       "id": "tsogkas",
-      "name": "Τσόγκας",
-      "url": "https://www.uom.gr/dai/"
-    },
-    {
-      "id": "seitaridis",
-      "name": "Σεϊταρίδης",
-      "url": "https://www.uom.gr/dai/"
-    },
-    {
-      "id": "pachnitsitiridou",
-      "name": "Παχνή-Τσιτιρίδου",
-      "url": "https://www.uom.gr/dai/"
+      "name": "Τσόγκας Βασίλειος",
+      "url": "mailto:vtsogkas@uom.edu.gr"
     },
     {
       "id": "nnikos",
       "name": "Νικολαΐδης Νικόλαος",
-      "url": "https://www.uom.gr/dai/"
+      "url": "mailto:nnikolaidis@uom.edu.gr"
     },
     {
       "id": "minadimara",
-      "name": "Ασημίνα Δημαρά",
+      "name": "Δημαρά Ασημίνα",
       "url": "mailto:minadimara@uom.edu.gr"
+    },
+    {
+      "id": "alexiadou",
+      "name": "Αλεξιάδου Αναστασία - Σοφία"
+    },
+    {
+      "id": "dtsoukalas",
+      "name": "Τσουκαλάς Δημήτριος",
+      "url": "mailto:dtsoukalas@uom.edu.gr"
+    },
+    {
+      "id": "r.promikyridis",
+      "name": "Προμικυρίδης Ραφαήλ",
+      "url": "mailto:r.promikyridis@uom.edu.gr"
     },
     {
       "id": "simv",
